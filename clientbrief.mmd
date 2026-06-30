@@ -1,0 +1,45 @@
+graph TD
+    %% Định nghĩa Style
+    classDef partner fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef problem fill:#ff9,stroke:#333,stroke-width:2px;
+    classDef deliverable fill:#9f9,stroke:#333,stroke-width:2px;
+    classDef data fill:#9cf,stroke:#333,stroke-width:2px;
+    classDef technical fill:#f96,stroke:#333,stroke-width:2px;
+    classDef score fill:#c9f,stroke:#333,stroke-width:2px;
+
+    %% Nút Gốc
+    Root("BotAutoCRM: AI Agent cho CRM (Bank A)") --> PartnerInfo("Phần A & B: Đối tác & Track")
+    Root --> ProblemDesc("Phần C: Mô tả bài toán")
+    Root --> Deliverables("Phần D: Kết quả & Bàn giao")
+    Root --> Resources("Phần E: Dữ liệu & Tài nguyên")
+    Root --> TechnicalReq("Phần H & I: Yêu cầu kỹ thuật & Kịch bản")
+    Root --> Scoring("Phần F & G: Tiêu chí & Cam kết")
+
+    %% Đối tác & Track
+    PartnerInfo --> P1("Đối tác: Ngân hàng TMCP A<br/>(Tài chính Ngân hàng bán lẻ & doanh nghiệp)"):::partner
+    PartnerInfo --> P2("Track: Đổi Mới Sáng Tạo<br/>(AI Agent + Model Context Protocol - MCP)"):::partner
+
+    %% Mô tả bài toán
+    ProblemDesc --> PB1("Bối cảnh: CRM API-first với Lead/Opportunity,<br/>Interaction History, Campaign REST APIs"):::problem
+    ProblemDesc --> PB2("Vấn đề: RM mất 2-3h/ca xử lý thủ công cho 50-80 KH.<br/>Salesforce/MS Copilot chi phí cao, khó tích hợp nội địa"):::problem
+    ProblemDesc --> PB3("Câu hỏi trọng tâm: Cách xây dựng AI Agent tiếng Việt tự nhắc lịch,<br/>soạn email/script, chuyển mạch CRM modules qua MCP"):::problem
+
+    %% Kết quả & Bàn giao
+    Deliverables --> D1("KPIs: Độ chính xác >= 85% (demo live);<br/>Giảm >= 50% time soạn email/script;<br/>Chuyển mạch >= 3 CRM contexts không mất data"):::deliverable
+    Deliverables --> D2("Sản phẩm bàn giao: AI Agent Frontend (web chat tiếng Việt),<br/>MCP Server, CRM Simulations (mock data),<br/>Docs & Proposal, Source Code"):::deliverable
+    Deliverables --> D3("Pilot Roadmap: 50 RM tại HN & HCM trong 3 tháng từ 10/2026;<br/>Đạt chuẩn an toàn thông tin & Nghị định 13/2023"):::deliverable
+
+    %% Dữ liệu & Tài nguyên
+    Resources --> R1("CRM Sandbox API: Endpoint sandbox.crm.banka.vn,<br/>mock data 500 KH, Rate limit 100 req/min"):::data
+    Resources --> R2("Interaction Dataset: 10.000 bản ghi tương tác tiếng Việt (NDA)"):::data
+    Resources --> R3("Templates & Knowledge: 200 email, 150 call scripts,<br/>35 sản phẩm Bank A"):::data
+    Resources --> R4("Hỗ trợ bổ sung: AWS $500, PM hỗ trợ,<br/>Senior RM + CRM API Lead hỗ trợ nghiệp vụ/kỹ thuật"):::data
+
+    %% Yêu cầu kỹ thuật
+    TechnicalReq --> T1("Ngôn ngữ & Ngữ cảnh: Tiếng Việt bắt buộc,<br/>hiểu thuật ngữ viết tắt (KH, ĐNCV, RM, CBNV);<br/>Pháp lý tín dụng, bảo hiểm, KYC Việt Nam"):::technical
+    TechnicalReq --> T2("Hiệu năng & Bảo mật: Latency <= 5s (câu đơn),<br/><= 15s (phức tạp); Không lưu chat clear text;<br/>Audit log đầy đủ cho mỗi LLM call"):::technical
+    TechnicalReq --> T3("Tích hợp: Tích hợp Bank A CRM Sandbox (>= 3 endpoints),<br/>chạy local repo sạch, đề xuất kiến trúc proxy LLM"):::technical
+
+    %% Tiêu chí & Cam kết
+    Scoring --> S1("Tiêu chí đặc thù (25%): MCP Protocol Implementation (15%) -<br/>giữ trạng thái khi đổi module; CRM Integration Depth (10%) -<br/>đọc từ >= 3 endpoints tổng hợp phản hồi có nguồn gốc"):::score
+    Scoring --> S2("Cam kết đối tác: Pilot 3 tháng hỗ trợ $5K; tuyển dụng AI Engineer;<br/>Hỗ trợ domain expert onsite/online"):::score

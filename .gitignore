@@ -1,0 +1,83 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+pip-selfcheck.json
+
+# Build and distribution directories
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+.eslintcache/
+
+# Environment variables and secrets (CRITICAL FOR SECURITY)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.pem
+*.key
+*.pub
+sa-key.json
+credentials.json
+secrets.json
+client_secret*.json
+*.p12
+*.pfx
+
+# Local databases and runtime data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AI Agents & Gemini configuration/metadata (Avoid leaking workspace state)
+.gemini/
+antigravity/
+.agents/
+transcript*.jsonl
+walkthrough.md
+task.md
+implementation_plan.md
+/scratch/
