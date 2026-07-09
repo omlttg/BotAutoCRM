@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-genai>=2.3.0
+google-antigravity
+openai
+anthropic
+mcp
+httpx
+pydantic

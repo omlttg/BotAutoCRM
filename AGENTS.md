@@ -7,9 +7,9 @@
 ## 🚀 THE VIBE CODE + OUSTERHOUT WORKFLOW (5-STEP ENGINE)
 
 ### 1️⃣ Step 1: Align & Synchronize (Grill Me)
-- **Input:** Always start with a raw idea brief format: `clientbrief.mmd` (Mermaid diagram).
+- **Input:** Start with a raw brief file (such as a JSON template, text requirements, or `clientbrief.mmd` Mermaid diagram).
 - **Agent Action:** 
-  * Read `clientbrief.mmd` and construct a mental "design tree".
+  * Read the input requirements and construct a mental "design tree".
   * Interview the User mercilessly by traversing the branches of the design tree. Ask at least 3-5 sharp, non-obvious questions.
   * *Goal:* Achieve a "shared understanding" between human and machine before writing a single line of code.
 
@@ -38,3 +38,10 @@
   * Detect and eliminate "Shallow Modules" caused by over-fragmentation ("Class-itis").
   * Merge them into "Deep Modules" with extremely clean interfaces.
   * Eliminate unnecessary dependencies and reduce codebase obscurity.
+
+---
+
+## 📂 DECISION LOGS & KNOWLEDGE SHARING
+
+- **Task/Session Logs:** Updated and maintained in the flat [HANDOFF.md](file:///home/thienvu/workspace/BotAutoCRM/HANDOFF.md) file at the root of the workspace. Do not create local specifications or task checklists inside this repository.
+- **Global Knowledge & Cross-Learning:** Traversed through the [global_brain](file:///home/thienvu/workspace/BotAutoCRM/global_brain/) directory (symlink pointing to `../AgentRoot/knowledge_base/`). Read pitfalls, standards, and global design principles before writing code.

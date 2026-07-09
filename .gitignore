@@ -15,6 +15,11 @@ include/
 share/
 pyvenv.cfg
 pip-selfcheck.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
 
 # Build and distribution directories
 dist/

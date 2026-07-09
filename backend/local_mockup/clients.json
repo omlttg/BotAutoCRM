@@ -1,0 +1,4502 @@
+[
+  {
+    "client_id": "KH001",
+    "name": "Bùi Ngọc Phương",
+    "segment": "Gold",
+    "phone": "0942442517",
+    "email": "kh001@banka.vn",
+    "account_balance": 68298140.42,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH002",
+    "name": "Phan Hữu Vy",
+    "segment": "Standard",
+    "phone": "0950784504",
+    "email": "kh002@banka.vn",
+    "account_balance": 22658546.04,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH003",
+    "name": "Hoàng Thu Trang",
+    "segment": "Standard",
+    "phone": "0974622637",
+    "email": "kh003@banka.vn",
+    "account_balance": 91672520.04,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH004",
+    "name": "Đỗ Minh Giang",
+    "segment": "Standard",
+    "phone": "0936638367",
+    "email": "kh004@banka.vn",
+    "account_balance": 4899740.95,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH005",
+    "name": "Lê Thành Sơn",
+    "segment": "Standard",
+    "phone": "0987318156",
+    "email": "kh005@banka.vn",
+    "account_balance": 70630183.08,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH006",
+    "name": "Trần Tuấn Bình",
+    "segment": "Gold",
+    "phone": "0999627727",
+    "email": "kh006@banka.vn",
+    "account_balance": 99164688.23,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH007",
+    "name": "Phan Đức Anh",
+    "segment": "Standard",
+    "phone": "0982748627",
+    "email": "kh007@banka.vn",
+    "account_balance": 33998011.01,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH008",
+    "name": "Phan Ngọc Phong",
+    "segment": "Standard",
+    "phone": "0931754959",
+    "email": "kh008@banka.vn",
+    "account_balance": 40297558.43,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH009",
+    "name": "Hoàng Hoàng Hương",
+    "segment": "Standard",
+    "phone": "0927066608",
+    "email": "kh009@banka.vn",
+    "account_balance": 99998008.4,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH010",
+    "name": "Nguyễn Thu Lan",
+    "segment": "Standard",
+    "phone": "0929983915",
+    "email": "kh010@banka.vn",
+    "account_balance": 66728391.8,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH011",
+    "name": "Bùi Hoàng Tuấn",
+    "segment": "VIP",
+    "phone": "0971229006",
+    "email": "kh011@banka.vn",
+    "account_balance": 3859452369.45,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH012",
+    "name": "Đỗ Tuấn Hùng",
+    "segment": "VIP",
+    "phone": "0998172920",
+    "email": "kh012@banka.vn",
+    "account_balance": 901689388.07,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH013",
+    "name": "Nguyễn Tuấn Tuấn",
+    "segment": "Standard",
+    "phone": "0972392904",
+    "email": "kh013@banka.vn",
+    "account_balance": 75578473.0,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH014",
+    "name": "Bùi Văn Hùng",
+    "segment": "VIP",
+    "phone": "0996777011",
+    "email": "kh014@banka.vn",
+    "account_balance": 4677401686.95,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH015",
+    "name": "Hồ Tuấn Trang",
+    "segment": "Standard",
+    "phone": "0966647519",
+    "email": "kh015@banka.vn",
+    "account_balance": 49097135.21,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH016",
+    "name": "Lê Văn Lan",
+    "segment": "VIP",
+    "phone": "0988232615",
+    "email": "kh016@banka.vn",
+    "account_balance": 4771248558.37,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH017",
+    "name": "Lê Minh Tuấn",
+    "segment": "VIP",
+    "phone": "0939394735",
+    "email": "kh017@banka.vn",
+    "account_balance": 2553561852.06,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH018",
+    "name": "Phạm Hữu Yến",
+    "segment": "Gold",
+    "phone": "0926319184",
+    "email": "kh018@banka.vn",
+    "account_balance": 65184032.05,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH019",
+    "name": "Đặng Thành Hương",
+    "segment": "VIP",
+    "phone": "0950832097",
+    "email": "kh019@banka.vn",
+    "account_balance": 2995956339.06,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH020",
+    "name": "Bùi Quang Yến",
+    "segment": "Gold",
+    "phone": "0956880721",
+    "email": "kh020@banka.vn",
+    "account_balance": 7103017.65,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH021",
+    "name": "Ngô Quang Phương",
+    "segment": "Standard",
+    "phone": "0998925146",
+    "email": "kh021@banka.vn",
+    "account_balance": 3578884.89,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH022",
+    "name": "Bùi Thành Hùng",
+    "segment": "Standard",
+    "phone": "0916888228",
+    "email": "kh022@banka.vn",
+    "account_balance": 61508347.31,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH023",
+    "name": "Trần Hữu Tuấn",
+    "segment": "VIP",
+    "phone": "0931444019",
+    "email": "kh023@banka.vn",
+    "account_balance": 1726093805.5,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH024",
+    "name": "Phạm Ngọc Sơn",
+    "segment": "Gold",
+    "phone": "0920260769",
+    "email": "kh024@banka.vn",
+    "account_balance": 44210749.83,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH025",
+    "name": "Lê Thành Anh",
+    "segment": "Gold",
+    "phone": "0970072502",
+    "email": "kh025@banka.vn",
+    "account_balance": 33068346.38,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH026",
+    "name": "Đỗ Anh Trang",
+    "segment": "Gold",
+    "phone": "0967243468",
+    "email": "kh026@banka.vn",
+    "account_balance": 40733576.37,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH027",
+    "name": "Huỳnh Thành Trang",
+    "segment": "Gold",
+    "phone": "0936693985",
+    "email": "kh027@banka.vn",
+    "account_balance": 52533434.23,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH028",
+    "name": "Bùi Hoàng Anh",
+    "segment": "Standard",
+    "phone": "0953199688",
+    "email": "kh028@banka.vn",
+    "account_balance": 31217618.63,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH029",
+    "name": "Nguyễn Hữu Nam",
+    "segment": "Standard",
+    "phone": "0931105011",
+    "email": "kh029@banka.vn",
+    "account_balance": 16117132.17,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH030",
+    "name": "Lê Hoàng Bình",
+    "segment": "VIP",
+    "phone": "0946425076",
+    "email": "kh030@banka.vn",
+    "account_balance": 598751150.83,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH031",
+    "name": "Đặng Hữu Yến",
+    "segment": "Gold",
+    "phone": "0976953909",
+    "email": "kh031@banka.vn",
+    "account_balance": 26578633.27,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH032",
+    "name": "Lê Hồng Hùng",
+    "segment": "VIP",
+    "phone": "0995731018",
+    "email": "kh032@banka.vn",
+    "account_balance": 2330468321.95,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH033",
+    "name": "Huỳnh Đức Hải",
+    "segment": "Standard",
+    "phone": "0991587439",
+    "email": "kh033@banka.vn",
+    "account_balance": 69503935.71,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH034",
+    "name": "Bùi Hoàng Hùng",
+    "segment": "Gold",
+    "phone": "0981404116",
+    "email": "kh034@banka.vn",
+    "account_balance": 54854973.35,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH035",
+    "name": "Huỳnh Thu Cường",
+    "segment": "Gold",
+    "phone": "0938494106",
+    "email": "kh035@banka.vn",
+    "account_balance": 6290116.01,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH036",
+    "name": "Ngô Hữu Vy",
+    "segment": "Gold",
+    "phone": "0986302357",
+    "email": "kh036@banka.vn",
+    "account_balance": 58172838.38,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH037",
+    "name": "Võ Khánh Hương",
+    "segment": "Standard",
+    "phone": "0922699678",
+    "email": "kh037@banka.vn",
+    "account_balance": 26417485.55,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH038",
+    "name": "Bùi Văn Bình",
+    "segment": "Standard",
+    "phone": "0984849073",
+    "email": "kh038@banka.vn",
+    "account_balance": 70915048.14,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH039",
+    "name": "Đỗ Hữu Nam",
+    "segment": "Gold",
+    "phone": "0992835719",
+    "email": "kh039@banka.vn",
+    "account_balance": 20639664.04,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH040",
+    "name": "Trần Tuấn Bình",
+    "segment": "Gold",
+    "phone": "0953922261",
+    "email": "kh040@banka.vn",
+    "account_balance": 3774715.22,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH041",
+    "name": "Ngô Thu Hương",
+    "segment": "Standard",
+    "phone": "0966018117",
+    "email": "kh041@banka.vn",
+    "account_balance": 8321166.13,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH042",
+    "name": "Đỗ Hoàng Vy",
+    "segment": "Gold",
+    "phone": "0945166972",
+    "email": "kh042@banka.vn",
+    "account_balance": 33982081.47,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH043",
+    "name": "Phạm Anh Trang",
+    "segment": "Gold",
+    "phone": "0953238130",
+    "email": "kh043@banka.vn",
+    "account_balance": 24124592.98,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH044",
+    "name": "Võ Quang Giang",
+    "segment": "Standard",
+    "phone": "0921212213",
+    "email": "kh044@banka.vn",
+    "account_balance": 87483467.76,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH045",
+    "name": "Lê Thu Em",
+    "segment": "Standard",
+    "phone": "0985815207",
+    "email": "kh045@banka.vn",
+    "account_balance": 64154203.26,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH046",
+    "name": "Võ Anh Lan",
+    "segment": "Standard",
+    "phone": "0996027234",
+    "email": "kh046@banka.vn",
+    "account_balance": 61286828.85,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH047",
+    "name": "Nguyễn Khánh Hương",
+    "segment": "Standard",
+    "phone": "0967310517",
+    "email": "kh047@banka.vn",
+    "account_balance": 6952971.4,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH048",
+    "name": "Bùi Hữu Nam",
+    "segment": "Gold",
+    "phone": "0937467558",
+    "email": "kh048@banka.vn",
+    "account_balance": 42964964.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH049",
+    "name": "Ngô Minh Hương",
+    "segment": "Standard",
+    "phone": "0967270171",
+    "email": "kh049@banka.vn",
+    "account_balance": 84858623.75,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH050",
+    "name": "Phan Ngọc Giang",
+    "segment": "Standard",
+    "phone": "0933010718",
+    "email": "kh050@banka.vn",
+    "account_balance": 15773766.17,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH051",
+    "name": "Ngô Hồng Hương",
+    "segment": "Standard",
+    "phone": "0959416472",
+    "email": "kh051@banka.vn",
+    "account_balance": 54046045.64,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH052",
+    "name": "Bùi Hồng Tuấn",
+    "segment": "Gold",
+    "phone": "0974530971",
+    "email": "kh052@banka.vn",
+    "account_balance": 88388001.58,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH053",
+    "name": "Huỳnh Thị Lan",
+    "segment": "VIP",
+    "phone": "0976325526",
+    "email": "kh053@banka.vn",
+    "account_balance": 2952791053.05,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH054",
+    "name": "Lê Quang Bình",
+    "segment": "Standard",
+    "phone": "0936080683",
+    "email": "kh054@banka.vn",
+    "account_balance": 59974065.38,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH055",
+    "name": "Đặng Minh Hải",
+    "segment": "Standard",
+    "phone": "0977140066",
+    "email": "kh055@banka.vn",
+    "account_balance": 10913318.5,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH056",
+    "name": "Võ Quang Sơn",
+    "segment": "Gold",
+    "phone": "0964969340",
+    "email": "kh056@banka.vn",
+    "account_balance": 77028503.04,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH057",
+    "name": "Hồ Đức Bình",
+    "segment": "Standard",
+    "phone": "0991352311",
+    "email": "kh057@banka.vn",
+    "account_balance": 91705416.79,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH058",
+    "name": "Nguyễn Quang Hùng",
+    "segment": "Standard",
+    "phone": "0920547840",
+    "email": "kh058@banka.vn",
+    "account_balance": 88527492.17,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH059",
+    "name": "Phan Đức Yến",
+    "segment": "Standard",
+    "phone": "0989744437",
+    "email": "kh059@banka.vn",
+    "account_balance": 70817773.0,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH060",
+    "name": "Nguyễn Văn Anh",
+    "segment": "Gold",
+    "phone": "0985653035",
+    "email": "kh060@banka.vn",
+    "account_balance": 23056811.33,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH061",
+    "name": "Nguyễn Văn Cường",
+    "segment": "Standard",
+    "phone": "0962876571",
+    "email": "kh061@banka.vn",
+    "account_balance": 75740112.36,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH062",
+    "name": "Nguyễn Hữu Anh",
+    "segment": "Gold",
+    "phone": "0979603306",
+    "email": "kh062@banka.vn",
+    "account_balance": 66850792.24,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH063",
+    "name": "Đỗ Ngọc Sơn",
+    "segment": "VIP",
+    "phone": "0979994698",
+    "email": "kh063@banka.vn",
+    "account_balance": 2443120268.25,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH064",
+    "name": "Hoàng Khánh Trang",
+    "segment": "Gold",
+    "phone": "0967077138",
+    "email": "kh064@banka.vn",
+    "account_balance": 86787972.13,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH065",
+    "name": "Nguyễn Văn Vy",
+    "segment": "Standard",
+    "phone": "0945361781",
+    "email": "kh065@banka.vn",
+    "account_balance": 93069435.44,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH066",
+    "name": "Hồ Thu Bình",
+    "segment": "Gold",
+    "phone": "0936348661",
+    "email": "kh066@banka.vn",
+    "account_balance": 28777069.89,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH067",
+    "name": "Phan Hồng Phương",
+    "segment": "VIP",
+    "phone": "0925038582",
+    "email": "kh067@banka.vn",
+    "account_balance": 377881305.65,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH068",
+    "name": "Bùi Tuấn Nam",
+    "segment": "Gold",
+    "phone": "0945918061",
+    "email": "kh068@banka.vn",
+    "account_balance": 47659562.99,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH069",
+    "name": "Hồ Anh Tuấn",
+    "segment": "Standard",
+    "phone": "0938466316",
+    "email": "kh069@banka.vn",
+    "account_balance": 15020240.59,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH070",
+    "name": "Lê Anh Cường",
+    "segment": "Standard",
+    "phone": "0952724006",
+    "email": "kh070@banka.vn",
+    "account_balance": 18312874.51,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH071",
+    "name": "Lê Đức Bình",
+    "segment": "Gold",
+    "phone": "0989321145",
+    "email": "kh071@banka.vn",
+    "account_balance": 48882598.2,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH072",
+    "name": "Bùi Hữu Phương",
+    "segment": "Standard",
+    "phone": "0996958941",
+    "email": "kh072@banka.vn",
+    "account_balance": 13720745.48,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH073",
+    "name": "Đặng Khánh Vy",
+    "segment": "Gold",
+    "phone": "0993342272",
+    "email": "kh073@banka.vn",
+    "account_balance": 55843046.38,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH074",
+    "name": "Đặng Đức Lan",
+    "segment": "Gold",
+    "phone": "0971693408",
+    "email": "kh074@banka.vn",
+    "account_balance": 87055696.53,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH075",
+    "name": "Đặng Ngọc Hải",
+    "segment": "Standard",
+    "phone": "0938146221",
+    "email": "kh075@banka.vn",
+    "account_balance": 22680239.08,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH076",
+    "name": "Đỗ Thu Nam",
+    "segment": "Standard",
+    "phone": "0974582380",
+    "email": "kh076@banka.vn",
+    "account_balance": 59844704.73,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH077",
+    "name": "Phan Hoàng Cường",
+    "segment": "Standard",
+    "phone": "0947766183",
+    "email": "kh077@banka.vn",
+    "account_balance": 15070628.54,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH078",
+    "name": "Huỳnh Ngọc Hải",
+    "segment": "VIP",
+    "phone": "0970151047",
+    "email": "kh078@banka.vn",
+    "account_balance": 400910833.49,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH079",
+    "name": "Nguyễn Hồng Anh",
+    "segment": "Standard",
+    "phone": "0974179418",
+    "email": "kh079@banka.vn",
+    "account_balance": 60795622.71,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH080",
+    "name": "Bùi Khánh Phương",
+    "segment": "Standard",
+    "phone": "0963312547",
+    "email": "kh080@banka.vn",
+    "account_balance": 40676583.98,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH081",
+    "name": "Hoàng Văn Yến",
+    "segment": "Standard",
+    "phone": "0981200667",
+    "email": "kh081@banka.vn",
+    "account_balance": 98222383.03,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH082",
+    "name": "Hồ Hữu Trang",
+    "segment": "Standard",
+    "phone": "0969097188",
+    "email": "kh082@banka.vn",
+    "account_balance": 67093983.44,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH083",
+    "name": "Hoàng Hoàng Nam",
+    "segment": "Standard",
+    "phone": "0920900633",
+    "email": "kh083@banka.vn",
+    "account_balance": 31268871.58,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH084",
+    "name": "Phan Anh Em",
+    "segment": "VIP",
+    "phone": "0929571670",
+    "email": "kh084@banka.vn",
+    "account_balance": 165282049.9,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH085",
+    "name": "Ngô Văn Cường",
+    "segment": "Standard",
+    "phone": "0922190267",
+    "email": "kh085@banka.vn",
+    "account_balance": 23700271.21,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH086",
+    "name": "Hoàng Hoàng Sơn",
+    "segment": "Gold",
+    "phone": "0974957030",
+    "email": "kh086@banka.vn",
+    "account_balance": 45922129.98,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH087",
+    "name": "Bùi Hữu Sơn",
+    "segment": "VIP",
+    "phone": "0964523698",
+    "email": "kh087@banka.vn",
+    "account_balance": 2314575525.68,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH088",
+    "name": "Đỗ Tuấn Hải",
+    "segment": "Standard",
+    "phone": "0971706335",
+    "email": "kh088@banka.vn",
+    "account_balance": 19766133.68,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH089",
+    "name": "Đặng Thu Hùng",
+    "segment": "Standard",
+    "phone": "0955391763",
+    "email": "kh089@banka.vn",
+    "account_balance": 92077297.53,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH090",
+    "name": "Đỗ Quang Trang",
+    "segment": "Standard",
+    "phone": "0968995307",
+    "email": "kh090@banka.vn",
+    "account_balance": 19131063.52,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH091",
+    "name": "Đặng Anh Nam",
+    "segment": "VIP",
+    "phone": "0956769970",
+    "email": "kh091@banka.vn",
+    "account_balance": 141337758.96,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH092",
+    "name": "Võ Hữu Cường",
+    "segment": "Standard",
+    "phone": "0988754097",
+    "email": "kh092@banka.vn",
+    "account_balance": 68716935.18,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH093",
+    "name": "Trần Khánh Nam",
+    "segment": "Gold",
+    "phone": "0990341197",
+    "email": "kh093@banka.vn",
+    "account_balance": 65993673.68,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH094",
+    "name": "Bùi Thị Sơn",
+    "segment": "Gold",
+    "phone": "0976728565",
+    "email": "kh094@banka.vn",
+    "account_balance": 63285016.71,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH095",
+    "name": "Phan Tuấn Trang",
+    "segment": "VIP",
+    "phone": "0979939365",
+    "email": "kh095@banka.vn",
+    "account_balance": 3362553634.12,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH096",
+    "name": "Đỗ Quang Bình",
+    "segment": "Standard",
+    "phone": "0923422351",
+    "email": "kh096@banka.vn",
+    "account_balance": 3584680.73,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH097",
+    "name": "Hoàng Hữu Nam",
+    "segment": "VIP",
+    "phone": "0986714626",
+    "email": "kh097@banka.vn",
+    "account_balance": 4575652313.71,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH098",
+    "name": "Hoàng Tuấn Hương",
+    "segment": "Gold",
+    "phone": "0980635410",
+    "email": "kh098@banka.vn",
+    "account_balance": 6315351.32,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH099",
+    "name": "Bùi Hoàng Em",
+    "segment": "Standard",
+    "phone": "0954962757",
+    "email": "kh099@banka.vn",
+    "account_balance": 4861647.48,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH100",
+    "name": "Phan Khánh Hùng",
+    "segment": "Gold",
+    "phone": "0944210380",
+    "email": "kh100@banka.vn",
+    "account_balance": 66641573.44,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH101",
+    "name": "Vũ Anh Hải",
+    "segment": "Gold",
+    "phone": "0997330449",
+    "email": "kh101@banka.vn",
+    "account_balance": 63594371.03,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH102",
+    "name": "Hồ Hồng Phong",
+    "segment": "VIP",
+    "phone": "0962618394",
+    "email": "kh102@banka.vn",
+    "account_balance": 1515669419.87,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH103",
+    "name": "Phạm Thành Trang",
+    "segment": "Gold",
+    "phone": "0958038298",
+    "email": "kh103@banka.vn",
+    "account_balance": 7595986.36,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH104",
+    "name": "Huỳnh Khánh Tuấn",
+    "segment": "VIP",
+    "phone": "0997263560",
+    "email": "kh104@banka.vn",
+    "account_balance": 3380167285.32,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH105",
+    "name": "Ngô Minh Sơn",
+    "segment": "Gold",
+    "phone": "0951128567",
+    "email": "kh105@banka.vn",
+    "account_balance": 82001096.21,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH106",
+    "name": "Nguyễn Hữu Hùng",
+    "segment": "Standard",
+    "phone": "0992485420",
+    "email": "kh106@banka.vn",
+    "account_balance": 76441698.38,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH107",
+    "name": "Võ Hữu Hương",
+    "segment": "VIP",
+    "phone": "0931589746",
+    "email": "kh107@banka.vn",
+    "account_balance": 2594905490.43,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH108",
+    "name": "Hồ Minh Phương",
+    "segment": "Gold",
+    "phone": "0935513725",
+    "email": "kh108@banka.vn",
+    "account_balance": 10898712.78,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH109",
+    "name": "Ngô Hữu Bình",
+    "segment": "Gold",
+    "phone": "0927575641",
+    "email": "kh109@banka.vn",
+    "account_balance": 28323983.37,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH110",
+    "name": "Huỳnh Tuấn Hải",
+    "segment": "VIP",
+    "phone": "0923531534",
+    "email": "kh110@banka.vn",
+    "account_balance": 4746860684.78,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH111",
+    "name": "Đỗ Văn Nam",
+    "segment": "VIP",
+    "phone": "0992605013",
+    "email": "kh111@banka.vn",
+    "account_balance": 3028378025.12,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH112",
+    "name": "Huỳnh Hoàng Sơn",
+    "segment": "VIP",
+    "phone": "0911100100",
+    "email": "kh112@banka.vn",
+    "account_balance": 4419145837.3,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH113",
+    "name": "Huỳnh Anh Phong",
+    "segment": "VIP",
+    "phone": "0989919689",
+    "email": "kh113@banka.vn",
+    "account_balance": 3466916055.63,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH114",
+    "name": "Đặng Đức Tuấn",
+    "segment": "Standard",
+    "phone": "0998879523",
+    "email": "kh114@banka.vn",
+    "account_balance": 58493954.97,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH115",
+    "name": "Trần Anh Yến",
+    "segment": "VIP",
+    "phone": "0989705159",
+    "email": "kh115@banka.vn",
+    "account_balance": 1208108011.74,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH116",
+    "name": "Phạm Thị Tuấn",
+    "segment": "Gold",
+    "phone": "0915545112",
+    "email": "kh116@banka.vn",
+    "account_balance": 7971298.5,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH117",
+    "name": "Võ Đức Trang",
+    "segment": "Standard",
+    "phone": "0945334061",
+    "email": "kh117@banka.vn",
+    "account_balance": 76108695.64,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH118",
+    "name": "Vũ Quang Hải",
+    "segment": "Standard",
+    "phone": "0961469176",
+    "email": "kh118@banka.vn",
+    "account_balance": 34718014.6,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH119",
+    "name": "Nguyễn Thu Lan",
+    "segment": "Standard",
+    "phone": "0928585001",
+    "email": "kh119@banka.vn",
+    "account_balance": 5057611.67,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH120",
+    "name": "Trần Hồng Tuấn",
+    "segment": "Gold",
+    "phone": "0923440849",
+    "email": "kh120@banka.vn",
+    "account_balance": 99831001.27,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH121",
+    "name": "Phạm Ngọc Yến",
+    "segment": "Standard",
+    "phone": "0989343188",
+    "email": "kh121@banka.vn",
+    "account_balance": 76768608.42,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH122",
+    "name": "Lê Anh Lan",
+    "segment": "Standard",
+    "phone": "0953577395",
+    "email": "kh122@banka.vn",
+    "account_balance": 19224957.63,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH123",
+    "name": "Vũ Hồng Lan",
+    "segment": "Gold",
+    "phone": "0962559171",
+    "email": "kh123@banka.vn",
+    "account_balance": 26191057.44,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH124",
+    "name": "Phan Hồng Nam",
+    "segment": "Gold",
+    "phone": "0915568498",
+    "email": "kh124@banka.vn",
+    "account_balance": 80347001.68,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH125",
+    "name": "Hoàng Thu Hùng",
+    "segment": "Gold",
+    "phone": "0928362851",
+    "email": "kh125@banka.vn",
+    "account_balance": 16883735.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH126",
+    "name": "Đặng Quang Tuấn",
+    "segment": "Gold",
+    "phone": "0921140326",
+    "email": "kh126@banka.vn",
+    "account_balance": 21299550.77,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH127",
+    "name": "Võ Ngọc Phong",
+    "segment": "Standard",
+    "phone": "0925880378",
+    "email": "kh127@banka.vn",
+    "account_balance": 79062899.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH128",
+    "name": "Vũ Quang Hùng",
+    "segment": "Standard",
+    "phone": "0991090500",
+    "email": "kh128@banka.vn",
+    "account_balance": 35796469.52,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH129",
+    "name": "Đỗ Hồng Hùng",
+    "segment": "Standard",
+    "phone": "0923530036",
+    "email": "kh129@banka.vn",
+    "account_balance": 73808603.08,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH130",
+    "name": "Ngô Hồng Phương",
+    "segment": "Gold",
+    "phone": "0960374024",
+    "email": "kh130@banka.vn",
+    "account_balance": 25662313.28,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH131",
+    "name": "Nguyễn Hồng Hải",
+    "segment": "Gold",
+    "phone": "0964279116",
+    "email": "kh131@banka.vn",
+    "account_balance": 88351581.28,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH132",
+    "name": "Vũ Đức Trang",
+    "segment": "VIP",
+    "phone": "0998159627",
+    "email": "kh132@banka.vn",
+    "account_balance": 3638747393.06,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH133",
+    "name": "Đỗ Thành Bình",
+    "segment": "Gold",
+    "phone": "0972059297",
+    "email": "kh133@banka.vn",
+    "account_balance": 23844462.36,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH134",
+    "name": "Phạm Thị Cường",
+    "segment": "Standard",
+    "phone": "0983383316",
+    "email": "kh134@banka.vn",
+    "account_balance": 51801143.45,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH135",
+    "name": "Lê Văn Anh",
+    "segment": "Standard",
+    "phone": "0998474955",
+    "email": "kh135@banka.vn",
+    "account_balance": 96561843.31,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH136",
+    "name": "Hồ Thị Hải",
+    "segment": "Standard",
+    "phone": "0956396896",
+    "email": "kh136@banka.vn",
+    "account_balance": 59442533.9,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH137",
+    "name": "Đỗ Thị Hải",
+    "segment": "Standard",
+    "phone": "0990148905",
+    "email": "kh137@banka.vn",
+    "account_balance": 9795316.55,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH138",
+    "name": "Trần Đức Phong",
+    "segment": "Gold",
+    "phone": "0998837228",
+    "email": "kh138@banka.vn",
+    "account_balance": 38935277.13,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH139",
+    "name": "Ngô Thành Dũng",
+    "segment": "Standard",
+    "phone": "0911925214",
+    "email": "kh139@banka.vn",
+    "account_balance": 70896951.48,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH140",
+    "name": "Võ Hữu Vy",
+    "segment": "Standard",
+    "phone": "0920731496",
+    "email": "kh140@banka.vn",
+    "account_balance": 75951570.35,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH141",
+    "name": "Nguyễn Đức Trang",
+    "segment": "Standard",
+    "phone": "0941426079",
+    "email": "kh141@banka.vn",
+    "account_balance": 99743020.95,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH142",
+    "name": "Lê Đức Hương",
+    "segment": "Gold",
+    "phone": "0918308263",
+    "email": "kh142@banka.vn",
+    "account_balance": 62456610.86,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH143",
+    "name": "Bùi Quang Em",
+    "segment": "Gold",
+    "phone": "0934293276",
+    "email": "kh143@banka.vn",
+    "account_balance": 54097274.12,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH144",
+    "name": "Phạm Tuấn Phương",
+    "segment": "Standard",
+    "phone": "0912203605",
+    "email": "kh144@banka.vn",
+    "account_balance": 5015379.35,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH145",
+    "name": "Vũ Anh Giang",
+    "segment": "VIP",
+    "phone": "0923397475",
+    "email": "kh145@banka.vn",
+    "account_balance": 928122213.85,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH146",
+    "name": "Phạm Thu Anh",
+    "segment": "Standard",
+    "phone": "0990525628",
+    "email": "kh146@banka.vn",
+    "account_balance": 55353493.45,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH147",
+    "name": "Ngô Minh Giang",
+    "segment": "Gold",
+    "phone": "0934814762",
+    "email": "kh147@banka.vn",
+    "account_balance": 50943577.11,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH148",
+    "name": "Vũ Hoàng Bình",
+    "segment": "Gold",
+    "phone": "0995969905",
+    "email": "kh148@banka.vn",
+    "account_balance": 53330778.61,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH149",
+    "name": "Huỳnh Thu Vy",
+    "segment": "Gold",
+    "phone": "0919894108",
+    "email": "kh149@banka.vn",
+    "account_balance": 91289170.69,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH150",
+    "name": "Đặng Hồng Cường",
+    "segment": "Standard",
+    "phone": "0936100750",
+    "email": "kh150@banka.vn",
+    "account_balance": 92174841.89,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH151",
+    "name": "Vũ Quang Yến",
+    "segment": "Gold",
+    "phone": "0999474872",
+    "email": "kh151@banka.vn",
+    "account_balance": 47220326.69,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH152",
+    "name": "Ngô Anh Nam",
+    "segment": "Gold",
+    "phone": "0917782216",
+    "email": "kh152@banka.vn",
+    "account_balance": 60292262.31,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH153",
+    "name": "Võ Tuấn Hương",
+    "segment": "Gold",
+    "phone": "0983661291",
+    "email": "kh153@banka.vn",
+    "account_balance": 39071239.33,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH154",
+    "name": "Trần Tuấn Hương",
+    "segment": "Gold",
+    "phone": "0937019536",
+    "email": "kh154@banka.vn",
+    "account_balance": 53412697.46,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH155",
+    "name": "Huỳnh Tuấn Nam",
+    "segment": "Standard",
+    "phone": "0952013219",
+    "email": "kh155@banka.vn",
+    "account_balance": 68615017.42,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH156",
+    "name": "Võ Quang Bình",
+    "segment": "Gold",
+    "phone": "0939529697",
+    "email": "kh156@banka.vn",
+    "account_balance": 76578548.5,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH157",
+    "name": "Võ Thu Yến",
+    "segment": "Standard",
+    "phone": "0943869471",
+    "email": "kh157@banka.vn",
+    "account_balance": 63812709.02,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH158",
+    "name": "Phan Thành Bình",
+    "segment": "Gold",
+    "phone": "0974281299",
+    "email": "kh158@banka.vn",
+    "account_balance": 33594537.85,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH159",
+    "name": "Huỳnh Anh Lan",
+    "segment": "Gold",
+    "phone": "0947369849",
+    "email": "kh159@banka.vn",
+    "account_balance": 68464505.69,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH160",
+    "name": "Nguyễn Minh Hải",
+    "segment": "Standard",
+    "phone": "0937398605",
+    "email": "kh160@banka.vn",
+    "account_balance": 94348885.34,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH161",
+    "name": "Lê Hữu Anh",
+    "segment": "Standard",
+    "phone": "0947053757",
+    "email": "kh161@banka.vn",
+    "account_balance": 76986264.42,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH162",
+    "name": "Hồ Thị Hương",
+    "segment": "Gold",
+    "phone": "0994660583",
+    "email": "kh162@banka.vn",
+    "account_balance": 38149956.9,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH163",
+    "name": "Đỗ Thành Cường",
+    "segment": "Gold",
+    "phone": "0926631207",
+    "email": "kh163@banka.vn",
+    "account_balance": 61699395.31,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH164",
+    "name": "Lê Quang Dũng",
+    "segment": "Standard",
+    "phone": "0942776626",
+    "email": "kh164@banka.vn",
+    "account_balance": 14102866.99,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH165",
+    "name": "Hồ Khánh Giang",
+    "segment": "Gold",
+    "phone": "0922723579",
+    "email": "kh165@banka.vn",
+    "account_balance": 99920707.26,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH166",
+    "name": "Vũ Tuấn Hùng",
+    "segment": "Standard",
+    "phone": "0950601335",
+    "email": "kh166@banka.vn",
+    "account_balance": 4902244.7,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH167",
+    "name": "Đỗ Thị Vy",
+    "segment": "Standard",
+    "phone": "0990814744",
+    "email": "kh167@banka.vn",
+    "account_balance": 68611228.55,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH168",
+    "name": "Phạm Anh Hải",
+    "segment": "Gold",
+    "phone": "0923563994",
+    "email": "kh168@banka.vn",
+    "account_balance": 64316438.89,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH169",
+    "name": "Hồ Quang Bình",
+    "segment": "Gold",
+    "phone": "0998913099",
+    "email": "kh169@banka.vn",
+    "account_balance": 54036663.52,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH170",
+    "name": "Phan Quang Bình",
+    "segment": "Gold",
+    "phone": "0934170318",
+    "email": "kh170@banka.vn",
+    "account_balance": 57485574.48,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH171",
+    "name": "Hồ Minh Nam",
+    "segment": "Standard",
+    "phone": "0978534717",
+    "email": "kh171@banka.vn",
+    "account_balance": 20746983.56,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH172",
+    "name": "Trần Hoàng Phong",
+    "segment": "Standard",
+    "phone": "0947608187",
+    "email": "kh172@banka.vn",
+    "account_balance": 64430730.25,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH173",
+    "name": "Huỳnh Đức Bình",
+    "segment": "Standard",
+    "phone": "0978138526",
+    "email": "kh173@banka.vn",
+    "account_balance": 77729228.92,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH174",
+    "name": "Phạm Khánh Nam",
+    "segment": "VIP",
+    "phone": "0934444937",
+    "email": "kh174@banka.vn",
+    "account_balance": 1849974902.5,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH175",
+    "name": "Đặng Hồng Dũng",
+    "segment": "Gold",
+    "phone": "0996120376",
+    "email": "kh175@banka.vn",
+    "account_balance": 45020006.62,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH176",
+    "name": "Lê Đức Lan",
+    "segment": "Standard",
+    "phone": "0991014189",
+    "email": "kh176@banka.vn",
+    "account_balance": 71217878.6,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH177",
+    "name": "Hồ Ngọc Phong",
+    "segment": "Standard",
+    "phone": "0980464911",
+    "email": "kh177@banka.vn",
+    "account_balance": 14926855.93,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH178",
+    "name": "Đặng Anh Anh",
+    "segment": "Gold",
+    "phone": "0971016761",
+    "email": "kh178@banka.vn",
+    "account_balance": 16937715.69,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH179",
+    "name": "Bùi Hữu Sơn",
+    "segment": "Standard",
+    "phone": "0971125529",
+    "email": "kh179@banka.vn",
+    "account_balance": 50443723.92,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH180",
+    "name": "Ngô Thu Tuấn",
+    "segment": "VIP",
+    "phone": "0966373429",
+    "email": "kh180@banka.vn",
+    "account_balance": 3231355872.42,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH181",
+    "name": "Đặng Thành Anh",
+    "segment": "Gold",
+    "phone": "0987671724",
+    "email": "kh181@banka.vn",
+    "account_balance": 36426091.36,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH182",
+    "name": "Đặng Hoàng Lan",
+    "segment": "VIP",
+    "phone": "0964464542",
+    "email": "kh182@banka.vn",
+    "account_balance": 2567313454.6,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH183",
+    "name": "Phạm Thu Giang",
+    "segment": "Standard",
+    "phone": "0980574706",
+    "email": "kh183@banka.vn",
+    "account_balance": 71658665.29,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH184",
+    "name": "Đỗ Thu Vy",
+    "segment": "Standard",
+    "phone": "0945727901",
+    "email": "kh184@banka.vn",
+    "account_balance": 75010130.95,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH185",
+    "name": "Võ Tuấn Hương",
+    "segment": "VIP",
+    "phone": "0955365712",
+    "email": "kh185@banka.vn",
+    "account_balance": 1689502157.93,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH186",
+    "name": "Hồ Văn Bình",
+    "segment": "VIP",
+    "phone": "0991287538",
+    "email": "kh186@banka.vn",
+    "account_balance": 874497996.35,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH187",
+    "name": "Vũ Khánh Giang",
+    "segment": "Gold",
+    "phone": "0999331173",
+    "email": "kh187@banka.vn",
+    "account_balance": 52030187.19,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH188",
+    "name": "Đặng Thành Phương",
+    "segment": "Gold",
+    "phone": "0945200548",
+    "email": "kh188@banka.vn",
+    "account_balance": 10826942.75,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH189",
+    "name": "Hoàng Ngọc Nam",
+    "segment": "Gold",
+    "phone": "0998097082",
+    "email": "kh189@banka.vn",
+    "account_balance": 61977340.5,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH190",
+    "name": "Hoàng Văn Nam",
+    "segment": "Standard",
+    "phone": "0962619968",
+    "email": "kh190@banka.vn",
+    "account_balance": 90100833.79,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH191",
+    "name": "Võ Hữu Hải",
+    "segment": "Standard",
+    "phone": "0996197993",
+    "email": "kh191@banka.vn",
+    "account_balance": 97888145.52,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH192",
+    "name": "Ngô Thu Phong",
+    "segment": "Standard",
+    "phone": "0952375313",
+    "email": "kh192@banka.vn",
+    "account_balance": 22403371.07,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH193",
+    "name": "Huỳnh Hữu Hải",
+    "segment": "Gold",
+    "phone": "0912865908",
+    "email": "kh193@banka.vn",
+    "account_balance": 42804518.71,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH194",
+    "name": "Lê Hồng Nam",
+    "segment": "VIP",
+    "phone": "0986325756",
+    "email": "kh194@banka.vn",
+    "account_balance": 1000226437.08,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH195",
+    "name": "Võ Hoàng Anh",
+    "segment": "Standard",
+    "phone": "0964409727",
+    "email": "kh195@banka.vn",
+    "account_balance": 4033200.74,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH196",
+    "name": "Vũ Thị Hùng",
+    "segment": "Standard",
+    "phone": "0913230353",
+    "email": "kh196@banka.vn",
+    "account_balance": 32421576.85,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH197",
+    "name": "Hồ Hồng Giang",
+    "segment": "Gold",
+    "phone": "0920883727",
+    "email": "kh197@banka.vn",
+    "account_balance": 7986058.24,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH198",
+    "name": "Lê Hồng Em",
+    "segment": "Standard",
+    "phone": "0911576593",
+    "email": "kh198@banka.vn",
+    "account_balance": 99874841.39,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH199",
+    "name": "Lê Hồng Trang",
+    "segment": "VIP",
+    "phone": "0945033622",
+    "email": "kh199@banka.vn",
+    "account_balance": 4278217479.02,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH200",
+    "name": "Nguyễn Tuấn Vy",
+    "segment": "Gold",
+    "phone": "0932696806",
+    "email": "kh200@banka.vn",
+    "account_balance": 5853099.26,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH201",
+    "name": "Đỗ Minh Anh",
+    "segment": "Standard",
+    "phone": "0949283821",
+    "email": "kh201@banka.vn",
+    "account_balance": 50455315.04,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH202",
+    "name": "Bùi Tuấn Hải",
+    "segment": "Gold",
+    "phone": "0917662062",
+    "email": "kh202@banka.vn",
+    "account_balance": 93332307.96,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH203",
+    "name": "Ngô Minh Tuấn",
+    "segment": "VIP",
+    "phone": "0919287476",
+    "email": "kh203@banka.vn",
+    "account_balance": 3152208553.22,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH204",
+    "name": "Đặng Thu Tuấn",
+    "segment": "Gold",
+    "phone": "0918676643",
+    "email": "kh204@banka.vn",
+    "account_balance": 64920239.09,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH205",
+    "name": "Nguyễn Anh Phương",
+    "segment": "Standard",
+    "phone": "0967078801",
+    "email": "kh205@banka.vn",
+    "account_balance": 82474265.37,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH206",
+    "name": "Nguyễn Tuấn Nam",
+    "segment": "VIP",
+    "phone": "0941950854",
+    "email": "kh206@banka.vn",
+    "account_balance": 657984760.54,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH207",
+    "name": "Đặng Anh Hương",
+    "segment": "Gold",
+    "phone": "0911812902",
+    "email": "kh207@banka.vn",
+    "account_balance": 39599816.42,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH208",
+    "name": "Đỗ Thu Anh",
+    "segment": "Gold",
+    "phone": "0911204374",
+    "email": "kh208@banka.vn",
+    "account_balance": 86252931.95,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH209",
+    "name": "Đặng Hoàng Dũng",
+    "segment": "Standard",
+    "phone": "0965994614",
+    "email": "kh209@banka.vn",
+    "account_balance": 1619850.44,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH210",
+    "name": "Đặng Thu Lan",
+    "segment": "Standard",
+    "phone": "0950321453",
+    "email": "kh210@banka.vn",
+    "account_balance": 34129339.53,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH211",
+    "name": "Trần Minh Trang",
+    "segment": "Gold",
+    "phone": "0963042499",
+    "email": "kh211@banka.vn",
+    "account_balance": 26232127.24,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH212",
+    "name": "Bùi Văn Lan",
+    "segment": "Standard",
+    "phone": "0950193287",
+    "email": "kh212@banka.vn",
+    "account_balance": 99569915.17,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH213",
+    "name": "Huỳnh Quang Cường",
+    "segment": "Gold",
+    "phone": "0966211674",
+    "email": "kh213@banka.vn",
+    "account_balance": 31862135.96,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH214",
+    "name": "Ngô Hồng Hải",
+    "segment": "VIP",
+    "phone": "0952732957",
+    "email": "kh214@banka.vn",
+    "account_balance": 3194486797.96,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH215",
+    "name": "Hoàng Thu Phương",
+    "segment": "Standard",
+    "phone": "0983016102",
+    "email": "kh215@banka.vn",
+    "account_balance": 64161990.95,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH216",
+    "name": "Hồ Quang Phương",
+    "segment": "Standard",
+    "phone": "0946906255",
+    "email": "kh216@banka.vn",
+    "account_balance": 16340195.64,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH217",
+    "name": "Hoàng Minh Phương",
+    "segment": "Standard",
+    "phone": "0939484861",
+    "email": "kh217@banka.vn",
+    "account_balance": 65999991.89,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH218",
+    "name": "Nguyễn Hữu Sơn",
+    "segment": "VIP",
+    "phone": "0963249628",
+    "email": "kh218@banka.vn",
+    "account_balance": 1491122908.09,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH219",
+    "name": "Hồ Văn Phương",
+    "segment": "VIP",
+    "phone": "0993984661",
+    "email": "kh219@banka.vn",
+    "account_balance": 2404025383.49,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH220",
+    "name": "Hoàng Khánh Vy",
+    "segment": "VIP",
+    "phone": "0940484792",
+    "email": "kh220@banka.vn",
+    "account_balance": 1776017895.9,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH221",
+    "name": "Trần Khánh Anh",
+    "segment": "VIP",
+    "phone": "0915885187",
+    "email": "kh221@banka.vn",
+    "account_balance": 2950971458.58,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH222",
+    "name": "Nguyễn Văn Nam",
+    "segment": "Standard",
+    "phone": "0921881140",
+    "email": "kh222@banka.vn",
+    "account_balance": 4346415.15,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH223",
+    "name": "Huỳnh Thị Phương",
+    "segment": "Gold",
+    "phone": "0970706962",
+    "email": "kh223@banka.vn",
+    "account_balance": 75707060.08,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH224",
+    "name": "Trần Khánh Bình",
+    "segment": "Standard",
+    "phone": "0993273726",
+    "email": "kh224@banka.vn",
+    "account_balance": 53635721.9,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH225",
+    "name": "Võ Thị Hải",
+    "segment": "Standard",
+    "phone": "0981203075",
+    "email": "kh225@banka.vn",
+    "account_balance": 72419612.45,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH226",
+    "name": "Phan Khánh Phương",
+    "segment": "Gold",
+    "phone": "0929162105",
+    "email": "kh226@banka.vn",
+    "account_balance": 40681173.39,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH227",
+    "name": "Bùi Quang Hải",
+    "segment": "VIP",
+    "phone": "0951940346",
+    "email": "kh227@banka.vn",
+    "account_balance": 4505316942.77,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH228",
+    "name": "Vũ Đức Sơn",
+    "segment": "Gold",
+    "phone": "0933852531",
+    "email": "kh228@banka.vn",
+    "account_balance": 2674409.91,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH229",
+    "name": "Nguyễn Thành Yến",
+    "segment": "Gold",
+    "phone": "0941410085",
+    "email": "kh229@banka.vn",
+    "account_balance": 5317208.9,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH230",
+    "name": "Đặng Tuấn Vy",
+    "segment": "Standard",
+    "phone": "0991483089",
+    "email": "kh230@banka.vn",
+    "account_balance": 71737795.07,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH231",
+    "name": "Hồ Anh Giang",
+    "segment": "VIP",
+    "phone": "0948355380",
+    "email": "kh231@banka.vn",
+    "account_balance": 4080985670.99,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH232",
+    "name": "Nguyễn Anh Cường",
+    "segment": "VIP",
+    "phone": "0976724557",
+    "email": "kh232@banka.vn",
+    "account_balance": 2110936700.95,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH233",
+    "name": "Phan Tuấn Trang",
+    "segment": "Standard",
+    "phone": "0913781831",
+    "email": "kh233@banka.vn",
+    "account_balance": 88003798.42,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH234",
+    "name": "Ngô Quang Anh",
+    "segment": "Standard",
+    "phone": "0955601159",
+    "email": "kh234@banka.vn",
+    "account_balance": 92446096.22,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH235",
+    "name": "Phan Thu Hải",
+    "segment": "Gold",
+    "phone": "0973652218",
+    "email": "kh235@banka.vn",
+    "account_balance": 46549356.8,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH236",
+    "name": "Trần Anh Sơn",
+    "segment": "Gold",
+    "phone": "0940250034",
+    "email": "kh236@banka.vn",
+    "account_balance": 96505063.91,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH237",
+    "name": "Lê Hồng Hương",
+    "segment": "Standard",
+    "phone": "0919430033",
+    "email": "kh237@banka.vn",
+    "account_balance": 88464826.48,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH238",
+    "name": "Đặng Văn Phong",
+    "segment": "Standard",
+    "phone": "0961481720",
+    "email": "kh238@banka.vn",
+    "account_balance": 86647446.27,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH239",
+    "name": "Trần Anh Sơn",
+    "segment": "Gold",
+    "phone": "0989192928",
+    "email": "kh239@banka.vn",
+    "account_balance": 99873902.53,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH240",
+    "name": "Hồ Hoàng Hải",
+    "segment": "VIP",
+    "phone": "0939755156",
+    "email": "kh240@banka.vn",
+    "account_balance": 951446848.5,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH241",
+    "name": "Phạm Hữu Sơn",
+    "segment": "Standard",
+    "phone": "0911644011",
+    "email": "kh241@banka.vn",
+    "account_balance": 36219447.86,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH242",
+    "name": "Võ Thành Anh",
+    "segment": "Standard",
+    "phone": "0992134552",
+    "email": "kh242@banka.vn",
+    "account_balance": 98646013.45,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH243",
+    "name": "Vũ Ngọc Phương",
+    "segment": "Gold",
+    "phone": "0925378880",
+    "email": "kh243@banka.vn",
+    "account_balance": 19362376.44,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH244",
+    "name": "Hồ Anh Anh",
+    "segment": "VIP",
+    "phone": "0922699210",
+    "email": "kh244@banka.vn",
+    "account_balance": 3601956803.08,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH245",
+    "name": "Võ Thành Lan",
+    "segment": "Gold",
+    "phone": "0940211784",
+    "email": "kh245@banka.vn",
+    "account_balance": 93168451.93,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH246",
+    "name": "Ngô Văn Phương",
+    "segment": "Gold",
+    "phone": "0912446916",
+    "email": "kh246@banka.vn",
+    "account_balance": 82920528.65,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH247",
+    "name": "Lê Hữu Trang",
+    "segment": "VIP",
+    "phone": "0952571248",
+    "email": "kh247@banka.vn",
+    "account_balance": 3789356330.63,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH248",
+    "name": "Vũ Quang Phong",
+    "segment": "Standard",
+    "phone": "0980507776",
+    "email": "kh248@banka.vn",
+    "account_balance": 41599939.73,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH249",
+    "name": "Trần Tuấn Hải",
+    "segment": "VIP",
+    "phone": "0960283975",
+    "email": "kh249@banka.vn",
+    "account_balance": 1364026708.92,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH250",
+    "name": "Huỳnh Thu Bình",
+    "segment": "Gold",
+    "phone": "0938698825",
+    "email": "kh250@banka.vn",
+    "account_balance": 97656770.87,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH251",
+    "name": "Bùi Khánh Nam",
+    "segment": "Gold",
+    "phone": "0953748860",
+    "email": "kh251@banka.vn",
+    "account_balance": 91813451.23,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH252",
+    "name": "Nguyễn Hữu Phong",
+    "segment": "Standard",
+    "phone": "0984360684",
+    "email": "kh252@banka.vn",
+    "account_balance": 1419703.69,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH253",
+    "name": "Hồ Hữu Giang",
+    "segment": "Standard",
+    "phone": "0934712928",
+    "email": "kh253@banka.vn",
+    "account_balance": 28917145.15,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH254",
+    "name": "Hoàng Thị Anh",
+    "segment": "VIP",
+    "phone": "0919305016",
+    "email": "kh254@banka.vn",
+    "account_balance": 3408713112.04,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH255",
+    "name": "Hồ Thành Lan",
+    "segment": "Standard",
+    "phone": "0968392558",
+    "email": "kh255@banka.vn",
+    "account_balance": 10216109.41,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH256",
+    "name": "Lê Hoàng Trang",
+    "segment": "Gold",
+    "phone": "0935100632",
+    "email": "kh256@banka.vn",
+    "account_balance": 97392892.06,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH257",
+    "name": "Đỗ Anh Hương",
+    "segment": "Standard",
+    "phone": "0962457456",
+    "email": "kh257@banka.vn",
+    "account_balance": 81288925.1,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH258",
+    "name": "Phan Hồng Dũng",
+    "segment": "Standard",
+    "phone": "0924564881",
+    "email": "kh258@banka.vn",
+    "account_balance": 40286742.17,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH259",
+    "name": "Võ Tuấn Vy",
+    "segment": "Standard",
+    "phone": "0971550648",
+    "email": "kh259@banka.vn",
+    "account_balance": 26591839.75,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH260",
+    "name": "Phan Thị Hương",
+    "segment": "Standard",
+    "phone": "0974765313",
+    "email": "kh260@banka.vn",
+    "account_balance": 74848969.28,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH261",
+    "name": "Ngô Khánh Giang",
+    "segment": "Gold",
+    "phone": "0974651059",
+    "email": "kh261@banka.vn",
+    "account_balance": 14610982.23,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH262",
+    "name": "Đỗ Thị Yến",
+    "segment": "Standard",
+    "phone": "0942177536",
+    "email": "kh262@banka.vn",
+    "account_balance": 61306132.96,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH263",
+    "name": "Lê Quang Cường",
+    "segment": "Standard",
+    "phone": "0982892664",
+    "email": "kh263@banka.vn",
+    "account_balance": 74784886.46,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH264",
+    "name": "Hoàng Thị Phong",
+    "segment": "Standard",
+    "phone": "0984240569",
+    "email": "kh264@banka.vn",
+    "account_balance": 24505876.89,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH265",
+    "name": "Phạm Quang Trang",
+    "segment": "Standard",
+    "phone": "0920187641",
+    "email": "kh265@banka.vn",
+    "account_balance": 28439829.11,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH266",
+    "name": "Trần Quang Trang",
+    "segment": "Gold",
+    "phone": "0984121790",
+    "email": "kh266@banka.vn",
+    "account_balance": 84481628.5,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH267",
+    "name": "Đỗ Văn Trang",
+    "segment": "Standard",
+    "phone": "0969417017",
+    "email": "kh267@banka.vn",
+    "account_balance": 65089966.57,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH268",
+    "name": "Hồ Ngọc Bình",
+    "segment": "Gold",
+    "phone": "0938073504",
+    "email": "kh268@banka.vn",
+    "account_balance": 41417969.08,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH269",
+    "name": "Hoàng Hồng Em",
+    "segment": "Standard",
+    "phone": "0971021434",
+    "email": "kh269@banka.vn",
+    "account_balance": 749434.16,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH270",
+    "name": "Vũ Thành Hương",
+    "segment": "Standard",
+    "phone": "0968510543",
+    "email": "kh270@banka.vn",
+    "account_balance": 74995512.44,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH271",
+    "name": "Ngô Tuấn Sơn",
+    "segment": "Gold",
+    "phone": "0956601547",
+    "email": "kh271@banka.vn",
+    "account_balance": 63781425.08,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH272",
+    "name": "Nguyễn Khánh Phương",
+    "segment": "Standard",
+    "phone": "0977573555",
+    "email": "kh272@banka.vn",
+    "account_balance": 39308211.71,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH273",
+    "name": "Huỳnh Văn Hùng",
+    "segment": "Gold",
+    "phone": "0969114632",
+    "email": "kh273@banka.vn",
+    "account_balance": 69202693.1,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH274",
+    "name": "Lê Hoàng Giang",
+    "segment": "Gold",
+    "phone": "0939075061",
+    "email": "kh274@banka.vn",
+    "account_balance": 70452602.67,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH275",
+    "name": "Ngô Hoàng Anh",
+    "segment": "Standard",
+    "phone": "0934218437",
+    "email": "kh275@banka.vn",
+    "account_balance": 44985209.58,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH276",
+    "name": "Nguyễn Quang Phương",
+    "segment": "Gold",
+    "phone": "0927455731",
+    "email": "kh276@banka.vn",
+    "account_balance": 66271162.41,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH277",
+    "name": "Phạm Thu Dũng",
+    "segment": "Standard",
+    "phone": "0951740495",
+    "email": "kh277@banka.vn",
+    "account_balance": 96511540.0,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH278",
+    "name": "Phan Hữu Nam",
+    "segment": "Gold",
+    "phone": "0988462501",
+    "email": "kh278@banka.vn",
+    "account_balance": 5500157.68,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH279",
+    "name": "Huỳnh Đức Phong",
+    "segment": "Standard",
+    "phone": "0919592052",
+    "email": "kh279@banka.vn",
+    "account_balance": 18365233.98,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH280",
+    "name": "Đặng Anh Vy",
+    "segment": "Standard",
+    "phone": "0924828828",
+    "email": "kh280@banka.vn",
+    "account_balance": 60036194.99,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH281",
+    "name": "Đỗ Thị Vy",
+    "segment": "Gold",
+    "phone": "0997185499",
+    "email": "kh281@banka.vn",
+    "account_balance": 23056822.1,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH282",
+    "name": "Vũ Anh Lan",
+    "segment": "VIP",
+    "phone": "0932336585",
+    "email": "kh282@banka.vn",
+    "account_balance": 2553692751.65,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH283",
+    "name": "Hồ Thành Trang",
+    "segment": "Standard",
+    "phone": "0944911568",
+    "email": "kh283@banka.vn",
+    "account_balance": 32050469.36,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH284",
+    "name": "Hoàng Hồng Sơn",
+    "segment": "VIP",
+    "phone": "0985580100",
+    "email": "kh284@banka.vn",
+    "account_balance": 4180216780.72,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH285",
+    "name": "Ngô Quang Em",
+    "segment": "Standard",
+    "phone": "0929768983",
+    "email": "kh285@banka.vn",
+    "account_balance": 33803781.97,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH286",
+    "name": "Hồ Hoàng Anh",
+    "segment": "VIP",
+    "phone": "0967219741",
+    "email": "kh286@banka.vn",
+    "account_balance": 1395389129.57,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH287",
+    "name": "Lê Hữu Cường",
+    "segment": "Standard",
+    "phone": "0958364993",
+    "email": "kh287@banka.vn",
+    "account_balance": 8988108.82,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH288",
+    "name": "Lê Thu Yến",
+    "segment": "Standard",
+    "phone": "0972838087",
+    "email": "kh288@banka.vn",
+    "account_balance": 28369070.47,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH289",
+    "name": "Bùi Đức Hương",
+    "segment": "Standard",
+    "phone": "0994020527",
+    "email": "kh289@banka.vn",
+    "account_balance": 28528890.67,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH290",
+    "name": "Bùi Đức Hương",
+    "segment": "Gold",
+    "phone": "0945576644",
+    "email": "kh290@banka.vn",
+    "account_balance": 99400360.47,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH291",
+    "name": "Huỳnh Minh Dũng",
+    "segment": "Gold",
+    "phone": "0941642125",
+    "email": "kh291@banka.vn",
+    "account_balance": 79092681.37,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH292",
+    "name": "Vũ Hữu Hùng",
+    "segment": "Standard",
+    "phone": "0963010995",
+    "email": "kh292@banka.vn",
+    "account_balance": 38681036.09,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH293",
+    "name": "Võ Hồng Hương",
+    "segment": "Gold",
+    "phone": "0966661332",
+    "email": "kh293@banka.vn",
+    "account_balance": 83034910.89,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH294",
+    "name": "Nguyễn Anh Hương",
+    "segment": "Standard",
+    "phone": "0916922480",
+    "email": "kh294@banka.vn",
+    "account_balance": 7872261.99,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH295",
+    "name": "Trần Thu Em",
+    "segment": "Standard",
+    "phone": "0910433661",
+    "email": "kh295@banka.vn",
+    "account_balance": 72530519.0,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH296",
+    "name": "Đặng Văn Phương",
+    "segment": "VIP",
+    "phone": "0970659284",
+    "email": "kh296@banka.vn",
+    "account_balance": 879082936.27,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH297",
+    "name": "Hoàng Thu Vy",
+    "segment": "Gold",
+    "phone": "0917998507",
+    "email": "kh297@banka.vn",
+    "account_balance": 48266513.62,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH298",
+    "name": "Trần Văn Giang",
+    "segment": "Standard",
+    "phone": "0987960058",
+    "email": "kh298@banka.vn",
+    "account_balance": 63611992.7,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH299",
+    "name": "Trần Thu Phương",
+    "segment": "VIP",
+    "phone": "0957855699",
+    "email": "kh299@banka.vn",
+    "account_balance": 1526212115.1,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH300",
+    "name": "Võ Đức Vy",
+    "segment": "Standard",
+    "phone": "0923483898",
+    "email": "kh300@banka.vn",
+    "account_balance": 86529878.59,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH301",
+    "name": "Huỳnh Thị Em",
+    "segment": "Standard",
+    "phone": "0984005941",
+    "email": "kh301@banka.vn",
+    "account_balance": 34113624.75,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH302",
+    "name": "Đặng Hồng Bình",
+    "segment": "Standard",
+    "phone": "0910500711",
+    "email": "kh302@banka.vn",
+    "account_balance": 36770705.93,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH303",
+    "name": "Hoàng Thành Vy",
+    "segment": "Gold",
+    "phone": "0955000225",
+    "email": "kh303@banka.vn",
+    "account_balance": 88094542.87,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH304",
+    "name": "Phạm Anh Yến",
+    "segment": "Gold",
+    "phone": "0954334386",
+    "email": "kh304@banka.vn",
+    "account_balance": 51658257.14,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH305",
+    "name": "Lê Tuấn Tuấn",
+    "segment": "Gold",
+    "phone": "0946555661",
+    "email": "kh305@banka.vn",
+    "account_balance": 68006622.06,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH306",
+    "name": "Đặng Tuấn Anh",
+    "segment": "VIP",
+    "phone": "0957572952",
+    "email": "kh306@banka.vn",
+    "account_balance": 4427911253.44,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH307",
+    "name": "Huỳnh Hữu Em",
+    "segment": "Standard",
+    "phone": "0948529834",
+    "email": "kh307@banka.vn",
+    "account_balance": 26911417.27,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH308",
+    "name": "Phan Ngọc Phương",
+    "segment": "Standard",
+    "phone": "0915712899",
+    "email": "kh308@banka.vn",
+    "account_balance": 80745230.97,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH309",
+    "name": "Hồ Quang Anh",
+    "segment": "Gold",
+    "phone": "0964554325",
+    "email": "kh309@banka.vn",
+    "account_balance": 82915595.09,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH310",
+    "name": "Phạm Hoàng Phương",
+    "segment": "Gold",
+    "phone": "0989520180",
+    "email": "kh310@banka.vn",
+    "account_balance": 32377522.7,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH311",
+    "name": "Bùi Thành Giang",
+    "segment": "VIP",
+    "phone": "0942254964",
+    "email": "kh311@banka.vn",
+    "account_balance": 828248187.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH312",
+    "name": "Bùi Ngọc Hương",
+    "segment": "Gold",
+    "phone": "0971929808",
+    "email": "kh312@banka.vn",
+    "account_balance": 3573300.3,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH313",
+    "name": "Hồ Minh Nam",
+    "segment": "VIP",
+    "phone": "0946373049",
+    "email": "kh313@banka.vn",
+    "account_balance": 2800761436.86,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH314",
+    "name": "Hồ Văn Em",
+    "segment": "Gold",
+    "phone": "0937000000",
+    "email": "kh314@banka.vn",
+    "account_balance": 93236215.86,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH315",
+    "name": "Đỗ Đức Phong",
+    "segment": "Gold",
+    "phone": "0945181193",
+    "email": "kh315@banka.vn",
+    "account_balance": 74241660.03,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH316",
+    "name": "Đỗ Ngọc Em",
+    "segment": "VIP",
+    "phone": "0946308744",
+    "email": "kh316@banka.vn",
+    "account_balance": 4560074731.68,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH317",
+    "name": "Võ Khánh Trang",
+    "segment": "Gold",
+    "phone": "0991628457",
+    "email": "kh317@banka.vn",
+    "account_balance": 93738623.57,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH318",
+    "name": "Võ Minh Hùng",
+    "segment": "Standard",
+    "phone": "0953602231",
+    "email": "kh318@banka.vn",
+    "account_balance": 38945657.14,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH319",
+    "name": "Nguyễn Thu Tuấn",
+    "segment": "Gold",
+    "phone": "0955471085",
+    "email": "kh319@banka.vn",
+    "account_balance": 89691353.62,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH320",
+    "name": "Đỗ Ngọc Bình",
+    "segment": "Standard",
+    "phone": "0989481603",
+    "email": "kh320@banka.vn",
+    "account_balance": 8929881.24,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH321",
+    "name": "Trần Tuấn Nam",
+    "segment": "Standard",
+    "phone": "0998685495",
+    "email": "kh321@banka.vn",
+    "account_balance": 4237872.98,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH322",
+    "name": "Hoàng Thu Bình",
+    "segment": "Gold",
+    "phone": "0986600458",
+    "email": "kh322@banka.vn",
+    "account_balance": 47065546.55,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH323",
+    "name": "Hồ Ngọc Trang",
+    "segment": "Gold",
+    "phone": "0953305497",
+    "email": "kh323@banka.vn",
+    "account_balance": 49833179.47,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH324",
+    "name": "Đặng Ngọc Yến",
+    "segment": "Gold",
+    "phone": "0971775356",
+    "email": "kh324@banka.vn",
+    "account_balance": 4988470.07,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH325",
+    "name": "Phan Văn Cường",
+    "segment": "Standard",
+    "phone": "0963965753",
+    "email": "kh325@banka.vn",
+    "account_balance": 87141839.55,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH326",
+    "name": "Võ Hồng Giang",
+    "segment": "Gold",
+    "phone": "0984390867",
+    "email": "kh326@banka.vn",
+    "account_balance": 76993382.06,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH327",
+    "name": "Đỗ Ngọc Hùng",
+    "segment": "Standard",
+    "phone": "0978878482",
+    "email": "kh327@banka.vn",
+    "account_balance": 47144945.4,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH328",
+    "name": "Huỳnh Hồng Em",
+    "segment": "VIP",
+    "phone": "0949515484",
+    "email": "kh328@banka.vn",
+    "account_balance": 2849468406.85,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH329",
+    "name": "Ngô Văn Nam",
+    "segment": "Standard",
+    "phone": "0923206312",
+    "email": "kh329@banka.vn",
+    "account_balance": 67493870.19,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH330",
+    "name": "Phan Hoàng Yến",
+    "segment": "Standard",
+    "phone": "0973143992",
+    "email": "kh330@banka.vn",
+    "account_balance": 2028767.52,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH331",
+    "name": "Hoàng Thành Trang",
+    "segment": "Standard",
+    "phone": "0953226475",
+    "email": "kh331@banka.vn",
+    "account_balance": 24756941.03,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH332",
+    "name": "Đỗ Anh Hương",
+    "segment": "Gold",
+    "phone": "0941434791",
+    "email": "kh332@banka.vn",
+    "account_balance": 98642968.64,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH333",
+    "name": "Lê Khánh Anh",
+    "segment": "Gold",
+    "phone": "0937373846",
+    "email": "kh333@banka.vn",
+    "account_balance": 34997965.73,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH334",
+    "name": "Nguyễn Thành Phương",
+    "segment": "Standard",
+    "phone": "0925268051",
+    "email": "kh334@banka.vn",
+    "account_balance": 47338611.57,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH335",
+    "name": "Hoàng Hoàng Nam",
+    "segment": "Standard",
+    "phone": "0959146902",
+    "email": "kh335@banka.vn",
+    "account_balance": 22782245.12,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH336",
+    "name": "Trần Thu Vy",
+    "segment": "Gold",
+    "phone": "0953837176",
+    "email": "kh336@banka.vn",
+    "account_balance": 45554778.15,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH337",
+    "name": "Vũ Thành Hùng",
+    "segment": "Standard",
+    "phone": "0931137709",
+    "email": "kh337@banka.vn",
+    "account_balance": 26615972.66,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH338",
+    "name": "Hoàng Quang Yến",
+    "segment": "Standard",
+    "phone": "0997303168",
+    "email": "kh338@banka.vn",
+    "account_balance": 73587428.31,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH339",
+    "name": "Lê Ngọc Phương",
+    "segment": "Standard",
+    "phone": "0983456946",
+    "email": "kh339@banka.vn",
+    "account_balance": 72869432.49,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH340",
+    "name": "Trần Khánh Bình",
+    "segment": "Gold",
+    "phone": "0997189994",
+    "email": "kh340@banka.vn",
+    "account_balance": 91863585.84,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH341",
+    "name": "Đặng Ngọc Bình",
+    "segment": "Standard",
+    "phone": "0937588404",
+    "email": "kh341@banka.vn",
+    "account_balance": 27032485.19,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH342",
+    "name": "Nguyễn Ngọc Hương",
+    "segment": "Gold",
+    "phone": "0922206302",
+    "email": "kh342@banka.vn",
+    "account_balance": 90340317.18,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH343",
+    "name": "Huỳnh Hữu Anh",
+    "segment": "VIP",
+    "phone": "0972420282",
+    "email": "kh343@banka.vn",
+    "account_balance": 2918204496.56,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH344",
+    "name": "Trần Hồng Dũng",
+    "segment": "VIP",
+    "phone": "0944119984",
+    "email": "kh344@banka.vn",
+    "account_balance": 2157733660.21,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH345",
+    "name": "Võ Thị Tuấn",
+    "segment": "Gold",
+    "phone": "0978787797",
+    "email": "kh345@banka.vn",
+    "account_balance": 58784210.47,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH346",
+    "name": "Bùi Thu Hương",
+    "segment": "Gold",
+    "phone": "0973969502",
+    "email": "kh346@banka.vn",
+    "account_balance": 3246727.78,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH347",
+    "name": "Hoàng Anh Giang",
+    "segment": "Standard",
+    "phone": "0969807248",
+    "email": "kh347@banka.vn",
+    "account_balance": 50949559.75,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH348",
+    "name": "Võ Hữu Tuấn",
+    "segment": "Gold",
+    "phone": "0989330888",
+    "email": "kh348@banka.vn",
+    "account_balance": 89521078.94,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH349",
+    "name": "Huỳnh Quang Giang",
+    "segment": "Gold",
+    "phone": "0990159306",
+    "email": "kh349@banka.vn",
+    "account_balance": 77051042.12,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH350",
+    "name": "Vũ Thu Hương",
+    "segment": "Gold",
+    "phone": "0920006057",
+    "email": "kh350@banka.vn",
+    "account_balance": 66987739.45,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH351",
+    "name": "Đỗ Anh Lan",
+    "segment": "Standard",
+    "phone": "0919828331",
+    "email": "kh351@banka.vn",
+    "account_balance": 367395.14,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH352",
+    "name": "Đỗ Hồng Lan",
+    "segment": "Standard",
+    "phone": "0965833240",
+    "email": "kh352@banka.vn",
+    "account_balance": 25172762.83,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH353",
+    "name": "Lê Hoàng Yến",
+    "segment": "Standard",
+    "phone": "0933362276",
+    "email": "kh353@banka.vn",
+    "account_balance": 27472821.72,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH354",
+    "name": "Phan Hoàng Hùng",
+    "segment": "Gold",
+    "phone": "0979362655",
+    "email": "kh354@banka.vn",
+    "account_balance": 79236111.12,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH355",
+    "name": "Võ Hồng Bình",
+    "segment": "Standard",
+    "phone": "0936744646",
+    "email": "kh355@banka.vn",
+    "account_balance": 35672913.95,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH356",
+    "name": "Hoàng Hữu Bình",
+    "segment": "Standard",
+    "phone": "0941062589",
+    "email": "kh356@banka.vn",
+    "account_balance": 76970518.39,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH357",
+    "name": "Vũ Hoàng Anh",
+    "segment": "Standard",
+    "phone": "0984953198",
+    "email": "kh357@banka.vn",
+    "account_balance": 83453737.3,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH358",
+    "name": "Ngô Anh Hải",
+    "segment": "Standard",
+    "phone": "0931389741",
+    "email": "kh358@banka.vn",
+    "account_balance": 17937221.99,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH359",
+    "name": "Đỗ Tuấn Dũng",
+    "segment": "Standard",
+    "phone": "0917638019",
+    "email": "kh359@banka.vn",
+    "account_balance": 65624001.01,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH360",
+    "name": "Phan Ngọc Yến",
+    "segment": "Standard",
+    "phone": "0919644042",
+    "email": "kh360@banka.vn",
+    "account_balance": 28470153.35,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH361",
+    "name": "Hoàng Văn Phương",
+    "segment": "Gold",
+    "phone": "0965296244",
+    "email": "kh361@banka.vn",
+    "account_balance": 66557768.19,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH362",
+    "name": "Vũ Hữu Phương",
+    "segment": "Standard",
+    "phone": "0948918758",
+    "email": "kh362@banka.vn",
+    "account_balance": 46308719.97,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH363",
+    "name": "Đỗ Hữu Yến",
+    "segment": "Standard",
+    "phone": "0962148970",
+    "email": "kh363@banka.vn",
+    "account_balance": 15166928.75,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH364",
+    "name": "Võ Quang Dũng",
+    "segment": "Gold",
+    "phone": "0918061571",
+    "email": "kh364@banka.vn",
+    "account_balance": 4303952.82,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH365",
+    "name": "Nguyễn Minh Vy",
+    "segment": "Standard",
+    "phone": "0920103846",
+    "email": "kh365@banka.vn",
+    "account_balance": 82023330.24,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH366",
+    "name": "Lê Thu Lan",
+    "segment": "Standard",
+    "phone": "0945018672",
+    "email": "kh366@banka.vn",
+    "account_balance": 29825318.09,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH367",
+    "name": "Ngô Quang Nam",
+    "segment": "Standard",
+    "phone": "0982043070",
+    "email": "kh367@banka.vn",
+    "account_balance": 17103840.07,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH368",
+    "name": "Hoàng Khánh Em",
+    "segment": "Standard",
+    "phone": "0944147414",
+    "email": "kh368@banka.vn",
+    "account_balance": 73703441.66,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH369",
+    "name": "Võ Minh Phong",
+    "segment": "Standard",
+    "phone": "0928142143",
+    "email": "kh369@banka.vn",
+    "account_balance": 65635973.88,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH370",
+    "name": "Phạm Hồng Phương",
+    "segment": "Gold",
+    "phone": "0959195683",
+    "email": "kh370@banka.vn",
+    "account_balance": 72482632.21,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH371",
+    "name": "Đặng Quang Hương",
+    "segment": "Standard",
+    "phone": "0960605537",
+    "email": "kh371@banka.vn",
+    "account_balance": 68337550.0,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH372",
+    "name": "Trần Anh Nam",
+    "segment": "Standard",
+    "phone": "0982653608",
+    "email": "kh372@banka.vn",
+    "account_balance": 65398478.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH373",
+    "name": "Trần Minh Yến",
+    "segment": "Gold",
+    "phone": "0987292340",
+    "email": "kh373@banka.vn",
+    "account_balance": 32191244.72,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH374",
+    "name": "Bùi Thị Giang",
+    "segment": "Gold",
+    "phone": "0975029037",
+    "email": "kh374@banka.vn",
+    "account_balance": 73370375.86,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH375",
+    "name": "Nguyễn Minh Hương",
+    "segment": "Gold",
+    "phone": "0998488402",
+    "email": "kh375@banka.vn",
+    "account_balance": 15412124.69,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH376",
+    "name": "Phan Thành Giang",
+    "segment": "Standard",
+    "phone": "0974258208",
+    "email": "kh376@banka.vn",
+    "account_balance": 35197012.78,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH377",
+    "name": "Vũ Thành Bình",
+    "segment": "Standard",
+    "phone": "0956356401",
+    "email": "kh377@banka.vn",
+    "account_balance": 80134046.22,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH378",
+    "name": "Võ Đức Anh",
+    "segment": "Standard",
+    "phone": "0916017903",
+    "email": "kh378@banka.vn",
+    "account_balance": 3846009.08,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH379",
+    "name": "Bùi Thị Hùng",
+    "segment": "Standard",
+    "phone": "0999764506",
+    "email": "kh379@banka.vn",
+    "account_balance": 61316285.68,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH380",
+    "name": "Võ Hồng Yến",
+    "segment": "VIP",
+    "phone": "0942056358",
+    "email": "kh380@banka.vn",
+    "account_balance": 3344596689.95,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH381",
+    "name": "Lê Ngọc Giang",
+    "segment": "VIP",
+    "phone": "0945064594",
+    "email": "kh381@banka.vn",
+    "account_balance": 4523039939.42,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH382",
+    "name": "Huỳnh Hoàng Tuấn",
+    "segment": "VIP",
+    "phone": "0985191542",
+    "email": "kh382@banka.vn",
+    "account_balance": 252532950.89,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH383",
+    "name": "Hồ Thành Anh",
+    "segment": "VIP",
+    "phone": "0980799518",
+    "email": "kh383@banka.vn",
+    "account_balance": 4453567266.92,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH384",
+    "name": "Huỳnh Hữu Sơn",
+    "segment": "Standard",
+    "phone": "0928396207",
+    "email": "kh384@banka.vn",
+    "account_balance": 66898472.59,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH385",
+    "name": "Võ Hoàng Hải",
+    "segment": "Gold",
+    "phone": "0952179273",
+    "email": "kh385@banka.vn",
+    "account_balance": 71966560.58,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH386",
+    "name": "Bùi Văn Hương",
+    "segment": "Gold",
+    "phone": "0989917141",
+    "email": "kh386@banka.vn",
+    "account_balance": 24141950.8,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH387",
+    "name": "Hồ Văn Em",
+    "segment": "Standard",
+    "phone": "0960634860",
+    "email": "kh387@banka.vn",
+    "account_balance": 42607352.14,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH388",
+    "name": "Lê Văn Hải",
+    "segment": "Standard",
+    "phone": "0998036255",
+    "email": "kh388@banka.vn",
+    "account_balance": 69857964.59,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH389",
+    "name": "Hồ Thị Hùng",
+    "segment": "Standard",
+    "phone": "0939628117",
+    "email": "kh389@banka.vn",
+    "account_balance": 82786697.6,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH390",
+    "name": "Nguyễn Minh Yến",
+    "segment": "VIP",
+    "phone": "0948818667",
+    "email": "kh390@banka.vn",
+    "account_balance": 496340127.08,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH391",
+    "name": "Hoàng Khánh Em",
+    "segment": "Standard",
+    "phone": "0914522436",
+    "email": "kh391@banka.vn",
+    "account_balance": 89517530.59,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH392",
+    "name": "Hoàng Đức Giang",
+    "segment": "VIP",
+    "phone": "0941708753",
+    "email": "kh392@banka.vn",
+    "account_balance": 2523163380.39,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH393",
+    "name": "Nguyễn Anh Anh",
+    "segment": "VIP",
+    "phone": "0995809932",
+    "email": "kh393@banka.vn",
+    "account_balance": 3271098891.83,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH394",
+    "name": "Phan Hồng Giang",
+    "segment": "Standard",
+    "phone": "0933957535",
+    "email": "kh394@banka.vn",
+    "account_balance": 74260194.4,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH395",
+    "name": "Trần Tuấn Tuấn",
+    "segment": "Gold",
+    "phone": "0981181468",
+    "email": "kh395@banka.vn",
+    "account_balance": 93750766.57,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH396",
+    "name": "Lê Ngọc Phong",
+    "segment": "Standard",
+    "phone": "0985754687",
+    "email": "kh396@banka.vn",
+    "account_balance": 59942184.71,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH397",
+    "name": "Đặng Ngọc Hùng",
+    "segment": "Standard",
+    "phone": "0936265608",
+    "email": "kh397@banka.vn",
+    "account_balance": 70147207.31,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH398",
+    "name": "Võ Hồng Vy",
+    "segment": "Gold",
+    "phone": "0983006957",
+    "email": "kh398@banka.vn",
+    "account_balance": 85405762.71,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH399",
+    "name": "Vũ Thành Anh",
+    "segment": "Gold",
+    "phone": "0971840357",
+    "email": "kh399@banka.vn",
+    "account_balance": 63398774.3,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH400",
+    "name": "Hoàng Khánh Sơn",
+    "segment": "Gold",
+    "phone": "0980481808",
+    "email": "kh400@banka.vn",
+    "account_balance": 29086976.41,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH401",
+    "name": "Ngô Anh Anh",
+    "segment": "Standard",
+    "phone": "0952222695",
+    "email": "kh401@banka.vn",
+    "account_balance": 64214612.25,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH402",
+    "name": "Huỳnh Hồng Trang",
+    "segment": "Standard",
+    "phone": "0989001573",
+    "email": "kh402@banka.vn",
+    "account_balance": 61706241.06,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH403",
+    "name": "Phan Hữu Vy",
+    "segment": "Standard",
+    "phone": "0975722805",
+    "email": "kh403@banka.vn",
+    "account_balance": 38727513.81,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH404",
+    "name": "Huỳnh Hữu Cường",
+    "segment": "VIP",
+    "phone": "0994798058",
+    "email": "kh404@banka.vn",
+    "account_balance": 3052593653.76,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH405",
+    "name": "Hồ Đức Yến",
+    "segment": "Standard",
+    "phone": "0970723136",
+    "email": "kh405@banka.vn",
+    "account_balance": 95180101.1,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH406",
+    "name": "Ngô Anh Hùng",
+    "segment": "Standard",
+    "phone": "0912318372",
+    "email": "kh406@banka.vn",
+    "account_balance": 52680432.61,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH407",
+    "name": "Huỳnh Hữu Cường",
+    "segment": "Standard",
+    "phone": "0945116536",
+    "email": "kh407@banka.vn",
+    "account_balance": 99501053.85,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH408",
+    "name": "Ngô Hoàng Hương",
+    "segment": "VIP",
+    "phone": "0938235487",
+    "email": "kh408@banka.vn",
+    "account_balance": 1990167817.89,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH409",
+    "name": "Nguyễn Đức Hùng",
+    "segment": "Standard",
+    "phone": "0994595865",
+    "email": "kh409@banka.vn",
+    "account_balance": 98240254.15,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH410",
+    "name": "Trần Hữu Lan",
+    "segment": "Standard",
+    "phone": "0959864357",
+    "email": "kh410@banka.vn",
+    "account_balance": 29880420.68,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH411",
+    "name": "Hoàng Thu Phong",
+    "segment": "Standard",
+    "phone": "0932576099",
+    "email": "kh411@banka.vn",
+    "account_balance": 54759601.03,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH412",
+    "name": "Ngô Văn Hải",
+    "segment": "Standard",
+    "phone": "0929568304",
+    "email": "kh412@banka.vn",
+    "account_balance": 76634073.53,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH413",
+    "name": "Võ Tuấn Sơn",
+    "segment": "Gold",
+    "phone": "0990472157",
+    "email": "kh413@banka.vn",
+    "account_balance": 10286963.48,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH414",
+    "name": "Phan Thị Vy",
+    "segment": "VIP",
+    "phone": "0977369578",
+    "email": "kh414@banka.vn",
+    "account_balance": 3807029710.66,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH415",
+    "name": "Nguyễn Thành Em",
+    "segment": "Gold",
+    "phone": "0934503792",
+    "email": "kh415@banka.vn",
+    "account_balance": 13851640.54,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH416",
+    "name": "Nguyễn Hữu Hùng",
+    "segment": "VIP",
+    "phone": "0940574921",
+    "email": "kh416@banka.vn",
+    "account_balance": 2223564214.59,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH417",
+    "name": "Ngô Thị Nam",
+    "segment": "VIP",
+    "phone": "0930457681",
+    "email": "kh417@banka.vn",
+    "account_balance": 408147353.32,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH418",
+    "name": "Võ Minh Em",
+    "segment": "Gold",
+    "phone": "0913081812",
+    "email": "kh418@banka.vn",
+    "account_balance": 10654502.34,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH419",
+    "name": "Phan Đức Tuấn",
+    "segment": "Standard",
+    "phone": "0922493051",
+    "email": "kh419@banka.vn",
+    "account_balance": 91266608.94,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH420",
+    "name": "Nguyễn Hữu Hương",
+    "segment": "Standard",
+    "phone": "0955965052",
+    "email": "kh420@banka.vn",
+    "account_balance": 26380401.19,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH421",
+    "name": "Đỗ Ngọc Phương",
+    "segment": "VIP",
+    "phone": "0920976479",
+    "email": "kh421@banka.vn",
+    "account_balance": 821409093.28,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH422",
+    "name": "Đặng Khánh Em",
+    "segment": "Standard",
+    "phone": "0910440778",
+    "email": "kh422@banka.vn",
+    "account_balance": 73911447.41,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH423",
+    "name": "Huỳnh Thành Cường",
+    "segment": "Standard",
+    "phone": "0979325125",
+    "email": "kh423@banka.vn",
+    "account_balance": 15404572.59,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH424",
+    "name": "Võ Thành Cường",
+    "segment": "Gold",
+    "phone": "0936398764",
+    "email": "kh424@banka.vn",
+    "account_balance": 70165110.11,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH425",
+    "name": "Hoàng Khánh Hương",
+    "segment": "Gold",
+    "phone": "0944972028",
+    "email": "kh425@banka.vn",
+    "account_balance": 75871029.28,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH426",
+    "name": "Phan Anh Trang",
+    "segment": "VIP",
+    "phone": "0971139454",
+    "email": "kh426@banka.vn",
+    "account_balance": 4258917979.09,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH427",
+    "name": "Trần Đức Nam",
+    "segment": "Gold",
+    "phone": "0965513817",
+    "email": "kh427@banka.vn",
+    "account_balance": 66236518.06,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH428",
+    "name": "Phan Tuấn Hùng",
+    "segment": "Gold",
+    "phone": "0933796677",
+    "email": "kh428@banka.vn",
+    "account_balance": 54654395.74,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH429",
+    "name": "Vũ Thị Nam",
+    "segment": "VIP",
+    "phone": "0951524865",
+    "email": "kh429@banka.vn",
+    "account_balance": 4458943354.67,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH430",
+    "name": "Nguyễn Hoàng Tuấn",
+    "segment": "Standard",
+    "phone": "0920466701",
+    "email": "kh430@banka.vn",
+    "account_balance": 24654054.78,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH431",
+    "name": "Huỳnh Minh Cường",
+    "segment": "Gold",
+    "phone": "0973285730",
+    "email": "kh431@banka.vn",
+    "account_balance": 90555163.66,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH432",
+    "name": "Trần Hồng Em",
+    "segment": "Gold",
+    "phone": "0997503381",
+    "email": "kh432@banka.vn",
+    "account_balance": 33894990.72,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH433",
+    "name": "Đỗ Thị Vy",
+    "segment": "Standard",
+    "phone": "0991276930",
+    "email": "kh433@banka.vn",
+    "account_balance": 81976865.08,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH434",
+    "name": "Võ Hồng Cường",
+    "segment": "Standard",
+    "phone": "0939120912",
+    "email": "kh434@banka.vn",
+    "account_balance": 9024156.75,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH435",
+    "name": "Đỗ Quang Hùng",
+    "segment": "VIP",
+    "phone": "0940737464",
+    "email": "kh435@banka.vn",
+    "account_balance": 3780407529.44,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH436",
+    "name": "Hồ Minh Em",
+    "segment": "Standard",
+    "phone": "0912154609",
+    "email": "kh436@banka.vn",
+    "account_balance": 75798449.62,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH437",
+    "name": "Nguyễn Ngọc Sơn",
+    "segment": "Gold",
+    "phone": "0922755125",
+    "email": "kh437@banka.vn",
+    "account_balance": 18410557.21,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH438",
+    "name": "Lê Thu Lan",
+    "segment": "Gold",
+    "phone": "0950505375",
+    "email": "kh438@banka.vn",
+    "account_balance": 14825950.07,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH439",
+    "name": "Vũ Hữu Tuấn",
+    "segment": "Gold",
+    "phone": "0949642836",
+    "email": "kh439@banka.vn",
+    "account_balance": 14144537.33,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH440",
+    "name": "Hoàng Hoàng Hải",
+    "segment": "VIP",
+    "phone": "0998969014",
+    "email": "kh440@banka.vn",
+    "account_balance": 2009299618.58,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH441",
+    "name": "Đỗ Hữu Bình",
+    "segment": "Gold",
+    "phone": "0950167628",
+    "email": "kh441@banka.vn",
+    "account_balance": 69816124.97,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH442",
+    "name": "Ngô Hồng Hải",
+    "segment": "Standard",
+    "phone": "0998492432",
+    "email": "kh442@banka.vn",
+    "account_balance": 19367568.25,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH443",
+    "name": "Võ Thành Trang",
+    "segment": "Standard",
+    "phone": "0960173727",
+    "email": "kh443@banka.vn",
+    "account_balance": 65001287.81,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH444",
+    "name": "Lê Quang Anh",
+    "segment": "Gold",
+    "phone": "0946933734",
+    "email": "kh444@banka.vn",
+    "account_balance": 13787394.01,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH445",
+    "name": "Bùi Hoàng Giang",
+    "segment": "Standard",
+    "phone": "0928792276",
+    "email": "kh445@banka.vn",
+    "account_balance": 50764684.12,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH446",
+    "name": "Phan Hồng Phương",
+    "segment": "VIP",
+    "phone": "0977056643",
+    "email": "kh446@banka.vn",
+    "account_balance": 1885758506.18,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH447",
+    "name": "Lê Anh Cường",
+    "segment": "Standard",
+    "phone": "0918042394",
+    "email": "kh447@banka.vn",
+    "account_balance": 69994991.55,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH448",
+    "name": "Lê Quang Trang",
+    "segment": "Gold",
+    "phone": "0953568300",
+    "email": "kh448@banka.vn",
+    "account_balance": 42817836.36,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH449",
+    "name": "Võ Hoàng Dũng",
+    "segment": "VIP",
+    "phone": "0990225947",
+    "email": "kh449@banka.vn",
+    "account_balance": 4962240965.03,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH450",
+    "name": "Phan Thị Yến",
+    "segment": "Gold",
+    "phone": "0937567675",
+    "email": "kh450@banka.vn",
+    "account_balance": 38489071.18,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH451",
+    "name": "Võ Ngọc Cường",
+    "segment": "VIP",
+    "phone": "0985211776",
+    "email": "kh451@banka.vn",
+    "account_balance": 4261784562.42,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH452",
+    "name": "Ngô Minh Nam",
+    "segment": "Standard",
+    "phone": "0914202470",
+    "email": "kh452@banka.vn",
+    "account_balance": 18179947.64,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH453",
+    "name": "Hồ Thành Phương",
+    "segment": "VIP",
+    "phone": "0969616449",
+    "email": "kh453@banka.vn",
+    "account_balance": 1832175058.48,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH454",
+    "name": "Phạm Hoàng Bình",
+    "segment": "VIP",
+    "phone": "0992954403",
+    "email": "kh454@banka.vn",
+    "account_balance": 4789346818.13,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH455",
+    "name": "Ngô Anh Sơn",
+    "segment": "Gold",
+    "phone": "0994879123",
+    "email": "kh455@banka.vn",
+    "account_balance": 14086842.64,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH456",
+    "name": "Phạm Quang Trang",
+    "segment": "Standard",
+    "phone": "0928421723",
+    "email": "kh456@banka.vn",
+    "account_balance": 38143530.46,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH457",
+    "name": "Vũ Anh Em",
+    "segment": "Standard",
+    "phone": "0975476986",
+    "email": "kh457@banka.vn",
+    "account_balance": 62841448.1,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH458",
+    "name": "Đỗ Thị Bình",
+    "segment": "Standard",
+    "phone": "0973982279",
+    "email": "kh458@banka.vn",
+    "account_balance": 19465930.01,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH459",
+    "name": "Đỗ Thị Vy",
+    "segment": "Standard",
+    "phone": "0960765318",
+    "email": "kh459@banka.vn",
+    "account_balance": 49167671.83,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH460",
+    "name": "Phan Văn Phương",
+    "segment": "Gold",
+    "phone": "0992816650",
+    "email": "kh460@banka.vn",
+    "account_balance": 57497056.53,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH461",
+    "name": "Ngô Hồng Trang",
+    "segment": "Gold",
+    "phone": "0975251431",
+    "email": "kh461@banka.vn",
+    "account_balance": 5727139.81,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH462",
+    "name": "Ngô Hữu Cường",
+    "segment": "Standard",
+    "phone": "0965618167",
+    "email": "kh462@banka.vn",
+    "account_balance": 39436058.41,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH463",
+    "name": "Trần Thu Phong",
+    "segment": "Gold",
+    "phone": "0936230652",
+    "email": "kh463@banka.vn",
+    "account_balance": 39047114.04,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH464",
+    "name": "Bùi Văn Giang",
+    "segment": "Standard",
+    "phone": "0957083925",
+    "email": "kh464@banka.vn",
+    "account_balance": 24190343.55,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH465",
+    "name": "Lê Đức Vy",
+    "segment": "Standard",
+    "phone": "0983219101",
+    "email": "kh465@banka.vn",
+    "account_balance": 78101775.85,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH466",
+    "name": "Đặng Hữu Phong",
+    "segment": "VIP",
+    "phone": "0984081713",
+    "email": "kh466@banka.vn",
+    "account_balance": 1887427068.54,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH467",
+    "name": "Huỳnh Quang Trang",
+    "segment": "Standard",
+    "phone": "0914073756",
+    "email": "kh467@banka.vn",
+    "account_balance": 17520655.16,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH468",
+    "name": "Bùi Thu Phong",
+    "segment": "Standard",
+    "phone": "0953442371",
+    "email": "kh468@banka.vn",
+    "account_balance": 37681365.46,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH469",
+    "name": "Hoàng Ngọc Hương",
+    "segment": "Standard",
+    "phone": "0974682526",
+    "email": "kh469@banka.vn",
+    "account_balance": 80613832.68,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH470",
+    "name": "Huỳnh Đức Trang",
+    "segment": "Gold",
+    "phone": "0995806212",
+    "email": "kh470@banka.vn",
+    "account_balance": 62394042.25,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH471",
+    "name": "Vũ Thành Tuấn",
+    "segment": "Gold",
+    "phone": "0953197448",
+    "email": "kh471@banka.vn",
+    "account_balance": 60982881.64,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH472",
+    "name": "Hoàng Thị Vy",
+    "segment": "Gold",
+    "phone": "0943869708",
+    "email": "kh472@banka.vn",
+    "account_balance": 94005477.88,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH473",
+    "name": "Nguyễn Đức Bình",
+    "segment": "Standard",
+    "phone": "0942467643",
+    "email": "kh473@banka.vn",
+    "account_balance": 71511575.97,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH474",
+    "name": "Hoàng Thành Phương",
+    "segment": "Gold",
+    "phone": "0983041747",
+    "email": "kh474@banka.vn",
+    "account_balance": 87034555.85,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH475",
+    "name": "Ngô Tuấn Anh",
+    "segment": "Standard",
+    "phone": "0982287092",
+    "email": "kh475@banka.vn",
+    "account_balance": 85546787.35,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH476",
+    "name": "Trần Thị Bình",
+    "segment": "VIP",
+    "phone": "0997755881",
+    "email": "kh476@banka.vn",
+    "account_balance": 4052070361.81,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH477",
+    "name": "Bùi Thu Giang",
+    "segment": "Standard",
+    "phone": "0930689588",
+    "email": "kh477@banka.vn",
+    "account_balance": 19548269.07,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH478",
+    "name": "Đỗ Minh Hùng",
+    "segment": "Standard",
+    "phone": "0957460856",
+    "email": "kh478@banka.vn",
+    "account_balance": 46761386.48,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH479",
+    "name": "Trần Ngọc Sơn",
+    "segment": "Standard",
+    "phone": "0994469539",
+    "email": "kh479@banka.vn",
+    "account_balance": 55651998.24,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH480",
+    "name": "Đỗ Anh Cường",
+    "segment": "Standard",
+    "phone": "0926244602",
+    "email": "kh480@banka.vn",
+    "account_balance": 53048975.96,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH481",
+    "name": "Hoàng Minh Phong",
+    "segment": "Gold",
+    "phone": "0957342816",
+    "email": "kh481@banka.vn",
+    "account_balance": 71564789.44,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH482",
+    "name": "Phạm Hồng Giang",
+    "segment": "Standard",
+    "phone": "0955477585",
+    "email": "kh482@banka.vn",
+    "account_balance": 37877057.95,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH483",
+    "name": "Phạm Hồng Phương",
+    "segment": "Gold",
+    "phone": "0932828985",
+    "email": "kh483@banka.vn",
+    "account_balance": 55284661.11,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH484",
+    "name": "Đặng Thu Hùng",
+    "segment": "Gold",
+    "phone": "0938533984",
+    "email": "kh484@banka.vn",
+    "account_balance": 35704253.76,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH485",
+    "name": "Ngô Hoàng Bình",
+    "segment": "Standard",
+    "phone": "0968274169",
+    "email": "kh485@banka.vn",
+    "account_balance": 59352137.33,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH486",
+    "name": "Võ Thị Dũng",
+    "segment": "Gold",
+    "phone": "0913241974",
+    "email": "kh486@banka.vn",
+    "account_balance": 42375478.19,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH487",
+    "name": "Lê Thu Tuấn",
+    "segment": "Standard",
+    "phone": "0921293373",
+    "email": "kh487@banka.vn",
+    "account_balance": 71619519.99,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH488",
+    "name": "Nguyễn Văn Anh",
+    "segment": "VIP",
+    "phone": "0914008636",
+    "email": "kh488@banka.vn",
+    "account_balance": 2000596953.91,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH489",
+    "name": "Lê Quang Phương",
+    "segment": "Standard",
+    "phone": "0955259696",
+    "email": "kh489@banka.vn",
+    "account_balance": 4999297.67,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH490",
+    "name": "Lê Quang Hương",
+    "segment": "Gold",
+    "phone": "0993168432",
+    "email": "kh490@banka.vn",
+    "account_balance": 77046036.16,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH491",
+    "name": "Phan Anh Em",
+    "segment": "Standard",
+    "phone": "0994884279",
+    "email": "kh491@banka.vn",
+    "account_balance": 46088011.22,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH492",
+    "name": "Vũ Văn Lan",
+    "segment": "Gold",
+    "phone": "0927015571",
+    "email": "kh492@banka.vn",
+    "account_balance": 59464448.13,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH493",
+    "name": "Trần Hồng Giang",
+    "segment": "Standard",
+    "phone": "0989905594",
+    "email": "kh493@banka.vn",
+    "account_balance": 38739464.71,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH494",
+    "name": "Nguyễn Hữu Trang",
+    "segment": "Standard",
+    "phone": "0975556174",
+    "email": "kh494@banka.vn",
+    "account_balance": 94149643.72,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH495",
+    "name": "Hồ Quang Hải",
+    "segment": "Standard",
+    "phone": "0917522490",
+    "email": "kh495@banka.vn",
+    "account_balance": 29981089.6,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH496",
+    "name": "Lê Văn Lan",
+    "segment": "Standard",
+    "phone": "0921594643",
+    "email": "kh496@banka.vn",
+    "account_balance": 25231793.92,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  },
+  {
+    "client_id": "KH497",
+    "name": "Đỗ Minh Hùng",
+    "segment": "Gold",
+    "phone": "0923043102",
+    "email": "kh497@banka.vn",
+    "account_balance": 90703345.48,
+    "assigned_rm": "RM Nguyễn Văn Đạt"
+  },
+  {
+    "client_id": "KH498",
+    "name": "Nguyễn Khánh Yến",
+    "segment": "Standard",
+    "phone": "0964423645",
+    "email": "kh498@banka.vn",
+    "account_balance": 77789322.15,
+    "assigned_rm": "RM Nguyễn Văn Linh"
+  },
+  {
+    "client_id": "KH499",
+    "name": "Đặng Đức Nam",
+    "segment": "Standard",
+    "phone": "0930464115",
+    "email": "kh499@banka.vn",
+    "account_balance": 66219317.73,
+    "assigned_rm": "RM Nguyễn Văn Hùng"
+  },
+  {
+    "client_id": "KH500",
+    "name": "Phan Đức Hải",
+    "segment": "VIP",
+    "phone": "0936174774",
+    "email": "kh500@banka.vn",
+    "account_balance": 1247961504.13,
+    "assigned_rm": "RM Nguyễn Văn Tú"
+  }
+]

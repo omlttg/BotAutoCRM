@@ -1,0 +1,3602 @@
+[
+  {
+    "opportunity_id": "OPP0001",
+    "client_id": "KH001",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1589787235.83,
+    "updated_at": "2026-07-01T11:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0002",
+    "client_id": "KH003",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 510186163.39,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0003",
+    "client_id": "KH003",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 209617576.51,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0004",
+    "client_id": "KH004",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1997914279.03,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0005",
+    "client_id": "KH005",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 632478594.44,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0006",
+    "client_id": "KH005",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1695702137.0,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0007",
+    "client_id": "KH008",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1807030012.02,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0008",
+    "client_id": "KH008",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 74677619.38,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0009",
+    "client_id": "KH009",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 590489382.07,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0010",
+    "client_id": "KH010",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 291286587.94,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0011",
+    "client_id": "KH011",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 261515298.88,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0012",
+    "client_id": "KH012",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1908613391.72,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0013",
+    "client_id": "KH012",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1201182943.08,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0014",
+    "client_id": "KH014",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1136836476.97,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0015",
+    "client_id": "KH014",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1214431152.22,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0016",
+    "client_id": "KH018",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1719361823.6,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0017",
+    "client_id": "KH020",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1544254999.99,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0018",
+    "client_id": "KH020",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1455286287.96,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0019",
+    "client_id": "KH021",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1349166438.45,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0020",
+    "client_id": "KH021",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1730361626.12,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0021",
+    "client_id": "KH022",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 474981313.25,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0022",
+    "client_id": "KH022",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 108343891.04,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0023",
+    "client_id": "KH025",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 432268290.73,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0024",
+    "client_id": "KH025",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 744809183.09,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0025",
+    "client_id": "KH026",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1117574062.77,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0026",
+    "client_id": "KH026",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1006742554.97,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0027",
+    "client_id": "KH027",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 730421188.04,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0028",
+    "client_id": "KH027",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 613927478.46,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0029",
+    "client_id": "KH029",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1793669000.01,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0030",
+    "client_id": "KH030",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 129256121.1,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0031",
+    "client_id": "KH030",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1409283611.56,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0032",
+    "client_id": "KH031",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 913739038.58,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0033",
+    "client_id": "KH032",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 942311183.23,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0034",
+    "client_id": "KH034",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 834277187.09,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0035",
+    "client_id": "KH034",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 718635890.69,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0036",
+    "client_id": "KH035",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 456975120.14,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0037",
+    "client_id": "KH036",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1973919462.73,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0038",
+    "client_id": "KH038",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1223660047.43,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0039",
+    "client_id": "KH040",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1342876777.55,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0040",
+    "client_id": "KH041",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1910325523.13,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0041",
+    "client_id": "KH041",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 372922187.97,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0042",
+    "client_id": "KH044",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 523378836.69,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0043",
+    "client_id": "KH046",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1258602098.07,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0044",
+    "client_id": "KH048",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1461374354.3,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0045",
+    "client_id": "KH048",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 673518822.99,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0046",
+    "client_id": "KH051",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1638414602.09,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0047",
+    "client_id": "KH053",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 846084524.72,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0048",
+    "client_id": "KH053",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1245948429.63,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0049",
+    "client_id": "KH054",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 755002543.27,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0050",
+    "client_id": "KH054",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 187156554.1,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0051",
+    "client_id": "KH056",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 398795544.52,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0052",
+    "client_id": "KH056",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1851487128.02,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0053",
+    "client_id": "KH057",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1685155710.67,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0054",
+    "client_id": "KH059",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1068959619.08,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0055",
+    "client_id": "KH060",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 382048593.46,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0056",
+    "client_id": "KH063",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1757343988.16,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0057",
+    "client_id": "KH065",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1719400702.44,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0058",
+    "client_id": "KH065",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1376709570.86,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0059",
+    "client_id": "KH066",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 678498168.52,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0060",
+    "client_id": "KH066",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1849621037.41,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0061",
+    "client_id": "KH068",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 817230876.68,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0062",
+    "client_id": "KH070",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1128325479.24,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0063",
+    "client_id": "KH074",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1771648793.79,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0064",
+    "client_id": "KH077",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Won",
+    "expected_value": 949881092.26,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0065",
+    "client_id": "KH079",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 275492952.43,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0066",
+    "client_id": "KH081",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1776063749.38,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0067",
+    "client_id": "KH083",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 527599209.18,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0068",
+    "client_id": "KH083",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1770512299.84,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0069",
+    "client_id": "KH084",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1828882818.62,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0070",
+    "client_id": "KH085",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1621459446.74,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0071",
+    "client_id": "KH085",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 1084398359.15,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0072",
+    "client_id": "KH087",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 419534854.66,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0073",
+    "client_id": "KH087",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1803190350.36,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0074",
+    "client_id": "KH088",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 608645020.78,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0075",
+    "client_id": "KH088",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 304618604.29,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0076",
+    "client_id": "KH091",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1911949857.64,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0077",
+    "client_id": "KH091",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 174429086.04,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0078",
+    "client_id": "KH093",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 306176877.7,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0079",
+    "client_id": "KH093",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1343024771.64,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0080",
+    "client_id": "KH094",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 1530254718.4,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0081",
+    "client_id": "KH096",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 350068515.46,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0082",
+    "client_id": "KH096",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 781962735.7,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0083",
+    "client_id": "KH098",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 566695566.15,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0084",
+    "client_id": "KH099",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 900865342.64,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0085",
+    "client_id": "KH100",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1850139521.81,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0086",
+    "client_id": "KH100",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 963975101.8,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0087",
+    "client_id": "KH104",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 455411231.22,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0088",
+    "client_id": "KH104",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 965842660.65,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0089",
+    "client_id": "KH108",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 283103890.6,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0090",
+    "client_id": "KH108",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1950804774.53,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0091",
+    "client_id": "KH109",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1592169757.41,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0092",
+    "client_id": "KH111",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1256085868.93,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0093",
+    "client_id": "KH111",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1875990687.39,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0094",
+    "client_id": "KH112",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1500847343.66,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0095",
+    "client_id": "KH112",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1321191446.34,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0096",
+    "client_id": "KH114",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 289807408.67,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0097",
+    "client_id": "KH117",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1011146043.28,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0098",
+    "client_id": "KH119",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1848163691.73,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0099",
+    "client_id": "KH119",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 231433254.0,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0100",
+    "client_id": "KH122",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1230490297.59,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0101",
+    "client_id": "KH124",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 1341286057.67,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0102",
+    "client_id": "KH124",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1267949776.22,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0103",
+    "client_id": "KH125",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1736752437.98,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0104",
+    "client_id": "KH129",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 299169966.63,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0105",
+    "client_id": "KH130",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 405487174.15,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0106",
+    "client_id": "KH130",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 1179737342.92,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0107",
+    "client_id": "KH131",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 382389002.63,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0108",
+    "client_id": "KH132",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 427287395.98,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0109",
+    "client_id": "KH132",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1963965552.49,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0110",
+    "client_id": "KH133",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 94792015.22,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0111",
+    "client_id": "KH133",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1786500306.61,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0112",
+    "client_id": "KH135",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1676904668.61,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0113",
+    "client_id": "KH135",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 89692131.9,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0114",
+    "client_id": "KH137",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 653017980.05,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0115",
+    "client_id": "KH138",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1310364693.98,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0116",
+    "client_id": "KH138",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 946537118.9,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0117",
+    "client_id": "KH139",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1723577593.12,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0118",
+    "client_id": "KH143",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 1315914438.85,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0119",
+    "client_id": "KH143",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 539398551.65,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0120",
+    "client_id": "KH144",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 101760210.05,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0121",
+    "client_id": "KH144",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 195488065.11,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0122",
+    "client_id": "KH148",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1096519792.74,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0123",
+    "client_id": "KH148",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 490842973.22,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0124",
+    "client_id": "KH149",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1397980955.12,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0125",
+    "client_id": "KH150",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 437659976.21,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0126",
+    "client_id": "KH150",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 342028889.82,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0127",
+    "client_id": "KH151",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 793915790.65,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0128",
+    "client_id": "KH153",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1044013855.65,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0129",
+    "client_id": "KH154",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1358285783.86,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0130",
+    "client_id": "KH155",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1849449831.72,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0131",
+    "client_id": "KH155",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 113463401.5,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0132",
+    "client_id": "KH158",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1278846889.88,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0133",
+    "client_id": "KH161",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1746999906.4,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0134",
+    "client_id": "KH161",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 884108403.29,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0135",
+    "client_id": "KH164",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1790018150.23,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0136",
+    "client_id": "KH164",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1869585761.09,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0137",
+    "client_id": "KH165",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 214376689.45,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0138",
+    "client_id": "KH166",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1048533087.71,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0139",
+    "client_id": "KH166",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1702719488.95,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0140",
+    "client_id": "KH167",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1275571180.35,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0141",
+    "client_id": "KH167",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 191994321.22,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0142",
+    "client_id": "KH169",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 922245174.67,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0143",
+    "client_id": "KH169",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1570021502.12,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0144",
+    "client_id": "KH175",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1171037908.73,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0145",
+    "client_id": "KH175",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1403973057.04,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0146",
+    "client_id": "KH176",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1612392049.06,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0147",
+    "client_id": "KH177",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1175456046.75,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0148",
+    "client_id": "KH179",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 271469821.79,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0149",
+    "client_id": "KH179",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1875299818.05,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0150",
+    "client_id": "KH180",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1261204224.13,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0151",
+    "client_id": "KH180",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1602656152.86,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0152",
+    "client_id": "KH181",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 689956972.7,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0153",
+    "client_id": "KH181",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1722689307.06,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0154",
+    "client_id": "KH182",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 538817720.51,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0155",
+    "client_id": "KH183",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 992228055.84,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0156",
+    "client_id": "KH183",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 621133224.08,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0157",
+    "client_id": "KH184",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 640972003.5,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0158",
+    "client_id": "KH184",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 665684869.36,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0159",
+    "client_id": "KH186",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Won",
+    "expected_value": 1063639974.98,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0160",
+    "client_id": "KH186",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 269374888.69,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0161",
+    "client_id": "KH189",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 651378373.41,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0162",
+    "client_id": "KH192",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 890637765.25,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0163",
+    "client_id": "KH194",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1159543744.85,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0164",
+    "client_id": "KH194",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1725275576.64,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0165",
+    "client_id": "KH196",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 971604496.53,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0166",
+    "client_id": "KH197",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1721248510.75,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0167",
+    "client_id": "KH198",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 356999066.85,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0168",
+    "client_id": "KH198",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 98452012.09,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0169",
+    "client_id": "KH199",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1987187913.44,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0170",
+    "client_id": "KH199",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 261554254.09,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0171",
+    "client_id": "KH201",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1482171294.72,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0172",
+    "client_id": "KH202",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 720803509.17,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0173",
+    "client_id": "KH205",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1621891481.57,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0174",
+    "client_id": "KH207",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1323320195.92,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0175",
+    "client_id": "KH209",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1854308743.94,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0176",
+    "client_id": "KH210",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1313758328.63,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0177",
+    "client_id": "KH210",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 1163711294.15,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0178",
+    "client_id": "KH211",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 169905306.47,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0179",
+    "client_id": "KH212",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1358796858.71,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0180",
+    "client_id": "KH217",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Won",
+    "expected_value": 480842304.16,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0181",
+    "client_id": "KH217",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1714261529.84,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0182",
+    "client_id": "KH218",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 524642850.1,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0183",
+    "client_id": "KH220",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1564850690.96,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0184",
+    "client_id": "KH221",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1129808338.07,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0185",
+    "client_id": "KH222",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1984002799.37,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0186",
+    "client_id": "KH222",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 318656040.45,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0187",
+    "client_id": "KH224",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1498096773.8,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0188",
+    "client_id": "KH225",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1599943916.06,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0189",
+    "client_id": "KH225",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1576106851.06,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0190",
+    "client_id": "KH228",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1558841877.57,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0191",
+    "client_id": "KH229",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1670123124.84,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0192",
+    "client_id": "KH230",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1983560157.11,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0193",
+    "client_id": "KH230",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 693777936.97,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0194",
+    "client_id": "KH232",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 483471446.47,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0195",
+    "client_id": "KH232",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1702195891.0,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0196",
+    "client_id": "KH237",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 892779068.55,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0197",
+    "client_id": "KH238",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 790193061.38,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0198",
+    "client_id": "KH240",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1445754391.52,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0199",
+    "client_id": "KH241",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1437096042.51,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0200",
+    "client_id": "KH244",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1053914531.78,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0201",
+    "client_id": "KH244",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 938004450.75,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0202",
+    "client_id": "KH249",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 939627928.21,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0203",
+    "client_id": "KH250",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 193538214.52,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0204",
+    "client_id": "KH251",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 801033802.06,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0205",
+    "client_id": "KH252",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 248310741.11,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0206",
+    "client_id": "KH253",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 203645829.1,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0207",
+    "client_id": "KH254",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 150500129.68,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0208",
+    "client_id": "KH255",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1694307757.34,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0209",
+    "client_id": "KH258",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1030798363.28,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0210",
+    "client_id": "KH258",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 667754550.58,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0211",
+    "client_id": "KH260",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 1314637764.02,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0212",
+    "client_id": "KH260",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 626475471.79,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0213",
+    "client_id": "KH261",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 702149599.84,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0214",
+    "client_id": "KH261",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 348284049.81,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0215",
+    "client_id": "KH262",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1309046831.84,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0216",
+    "client_id": "KH262",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 421819610.82,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0217",
+    "client_id": "KH263",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1550815714.19,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0218",
+    "client_id": "KH265",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1905299410.18,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0219",
+    "client_id": "KH265",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 969887509.55,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0220",
+    "client_id": "KH269",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 485818581.69,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0221",
+    "client_id": "KH270",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 442734288.03,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0222",
+    "client_id": "KH274",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 94240794.93,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0223",
+    "client_id": "KH278",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 293855483.44,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0224",
+    "client_id": "KH279",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1735117016.26,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0225",
+    "client_id": "KH279",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1207377456.42,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0226",
+    "client_id": "KH281",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1158227506.34,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0227",
+    "client_id": "KH282",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1950467364.97,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0228",
+    "client_id": "KH284",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1211914514.57,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0229",
+    "client_id": "KH284",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1350668489.93,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0230",
+    "client_id": "KH287",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1346448190.67,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0231",
+    "client_id": "KH288",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 997892269.44,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0232",
+    "client_id": "KH289",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 103840323.27,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0233",
+    "client_id": "KH290",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 1584436615.6,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0234",
+    "client_id": "KH290",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 567493309.72,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0235",
+    "client_id": "KH291",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1348479400.96,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0236",
+    "client_id": "KH291",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 1848305440.01,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0237",
+    "client_id": "KH292",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Won",
+    "expected_value": 820242640.39,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0238",
+    "client_id": "KH292",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1437123313.04,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0239",
+    "client_id": "KH293",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 123996889.5,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0240",
+    "client_id": "KH295",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Won",
+    "expected_value": 786581561.29,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0241",
+    "client_id": "KH295",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 246453343.39,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0242",
+    "client_id": "KH297",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 217968782.27,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0243",
+    "client_id": "KH300",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1997723375.29,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0244",
+    "client_id": "KH300",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1264701592.96,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0245",
+    "client_id": "KH301",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1803575327.24,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0246",
+    "client_id": "KH301",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1483632003.03,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0247",
+    "client_id": "KH302",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 75307603.79,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0248",
+    "client_id": "KH303",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1353212790.12,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0249",
+    "client_id": "KH303",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 438658259.37,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0250",
+    "client_id": "KH304",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1075792919.68,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0251",
+    "client_id": "KH304",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 674354029.27,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0252",
+    "client_id": "KH305",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1598626053.78,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0253",
+    "client_id": "KH305",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 1146949382.59,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0254",
+    "client_id": "KH306",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 669786997.92,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0255",
+    "client_id": "KH306",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 891830473.45,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0256",
+    "client_id": "KH311",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1563341021.78,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0257",
+    "client_id": "KH311",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1707884612.58,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0258",
+    "client_id": "KH312",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 509319926.97,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0259",
+    "client_id": "KH313",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1693159230.33,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0260",
+    "client_id": "KH313",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 310433330.05,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0261",
+    "client_id": "KH315",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1126246005.65,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0262",
+    "client_id": "KH315",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 136188652.37,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0263",
+    "client_id": "KH317",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 723243805.79,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0264",
+    "client_id": "KH320",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1006553612.11,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0265",
+    "client_id": "KH321",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1543120291.51,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0266",
+    "client_id": "KH321",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 621828680.24,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0267",
+    "client_id": "KH323",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1973178794.4,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0268",
+    "client_id": "KH323",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 65975480.81,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0269",
+    "client_id": "KH324",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1548004046.4,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0270",
+    "client_id": "KH325",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 1038632506.72,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0271",
+    "client_id": "KH329",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 283808352.63,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0272",
+    "client_id": "KH329",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 1595614320.69,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0273",
+    "client_id": "KH331",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 817684134.27,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0274",
+    "client_id": "KH331",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1941200321.37,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0275",
+    "client_id": "KH332",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1710533402.31,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0276",
+    "client_id": "KH332",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 214767325.83,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0277",
+    "client_id": "KH334",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 752699138.34,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0278",
+    "client_id": "KH334",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1898817119.9,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0279",
+    "client_id": "KH335",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 756395590.25,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0280",
+    "client_id": "KH336",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 808522847.84,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0281",
+    "client_id": "KH336",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 451328196.62,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0282",
+    "client_id": "KH340",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1046585772.32,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0283",
+    "client_id": "KH341",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 860938776.05,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0284",
+    "client_id": "KH341",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 613642126.3,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0285",
+    "client_id": "KH342",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 318850898.17,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0286",
+    "client_id": "KH342",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 389044460.4,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0287",
+    "client_id": "KH343",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 993009419.73,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0288",
+    "client_id": "KH343",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1711474214.79,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0289",
+    "client_id": "KH345",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 845384257.42,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0290",
+    "client_id": "KH345",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1591460977.46,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0291",
+    "client_id": "KH351",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 268132119.32,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0292",
+    "client_id": "KH351",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1748350096.38,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0293",
+    "client_id": "KH354",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 491851644.32,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0294",
+    "client_id": "KH354",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1139947575.81,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0295",
+    "client_id": "KH355",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1846979663.07,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0296",
+    "client_id": "KH355",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1591236136.1,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0297",
+    "client_id": "KH357",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1279543095.23,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0298",
+    "client_id": "KH358",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 1534390510.86,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0299",
+    "client_id": "KH358",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 439158807.28,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0300",
+    "client_id": "KH361",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1948466087.42,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0301",
+    "client_id": "KH363",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1469374005.67,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0302",
+    "client_id": "KH363",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 211573961.15,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0303",
+    "client_id": "KH364",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 180499527.61,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0304",
+    "client_id": "KH365",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 869041619.27,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0305",
+    "client_id": "KH367",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1084222829.07,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0306",
+    "client_id": "KH368",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 550778937.88,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0307",
+    "client_id": "KH368",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1004722720.08,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0308",
+    "client_id": "KH370",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1191245820.16,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0309",
+    "client_id": "KH370",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 790939468.21,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0310",
+    "client_id": "KH374",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1038025469.24,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0311",
+    "client_id": "KH376",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 384997809.38,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0312",
+    "client_id": "KH376",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 631215525.41,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0313",
+    "client_id": "KH377",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 213745666.94,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0314",
+    "client_id": "KH378",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 1465116228.97,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0315",
+    "client_id": "KH379",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 808957893.51,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0316",
+    "client_id": "KH379",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 254564802.53,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0317",
+    "client_id": "KH381",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 248119573.29,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0318",
+    "client_id": "KH382",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1195404265.1,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0319",
+    "client_id": "KH382",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 265879194.54,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0320",
+    "client_id": "KH383",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 478963239.48,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0321",
+    "client_id": "KH383",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 248353104.84,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0322",
+    "client_id": "KH384",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1243125113.29,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0323",
+    "client_id": "KH384",
+    "product_type": "Vay mua nhà",
+    "stage": "New",
+    "expected_value": 871596911.55,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0324",
+    "client_id": "KH385",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 438615159.24,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0325",
+    "client_id": "KH387",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 251223213.62,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0326",
+    "client_id": "KH387",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 529900315.49,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0327",
+    "client_id": "KH388",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1157472594.95,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0328",
+    "client_id": "KH388",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 959600299.63,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0329",
+    "client_id": "KH389",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1968214895.65,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0330",
+    "client_id": "KH389",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1574581061.18,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0331",
+    "client_id": "KH390",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 667503875.14,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0332",
+    "client_id": "KH390",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1484183916.19,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0333",
+    "client_id": "KH391",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1078602200.75,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0334",
+    "client_id": "KH392",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 940641213.82,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0335",
+    "client_id": "KH392",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 402879797.94,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0336",
+    "client_id": "KH393",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1201031961.24,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0337",
+    "client_id": "KH394",
+    "product_type": "Vay mua nhà",
+    "stage": "Contacted",
+    "expected_value": 1688793213.28,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0338",
+    "client_id": "KH394",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 717962453.13,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0339",
+    "client_id": "KH395",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1636048194.81,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0340",
+    "client_id": "KH395",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 715409906.55,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0341",
+    "client_id": "KH397",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 1433506690.4,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0342",
+    "client_id": "KH397",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1544638766.47,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0343",
+    "client_id": "KH398",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1229171261.21,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0344",
+    "client_id": "KH400",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 1112736687.9,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0345",
+    "client_id": "KH401",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1100593573.56,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0346",
+    "client_id": "KH403",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 1870215761.82,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0347",
+    "client_id": "KH403",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 1807844988.74,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0348",
+    "client_id": "KH407",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 1307963148.49,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0349",
+    "client_id": "KH407",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 1190562122.61,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0350",
+    "client_id": "KH408",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 620767379.28,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0351",
+    "client_id": "KH408",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 140224673.56,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0352",
+    "client_id": "KH409",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 924915351.48,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0353",
+    "client_id": "KH409",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 678301980.87,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0354",
+    "client_id": "KH410",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 430832733.72,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0355",
+    "client_id": "KH410",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1920385226.84,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0356",
+    "client_id": "KH411",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1572720176.9,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0357",
+    "client_id": "KH413",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1580871161.4,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0358",
+    "client_id": "KH413",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1112430171.82,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0359",
+    "client_id": "KH414",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1994444355.96,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0360",
+    "client_id": "KH415",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1650933942.34,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0361",
+    "client_id": "KH415",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1209351603.26,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0362",
+    "client_id": "KH418",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1103659666.72,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0363",
+    "client_id": "KH419",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1933950971.43,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0364",
+    "client_id": "KH421",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 275899399.47,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0365",
+    "client_id": "KH422",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1035980889.93,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0366",
+    "client_id": "KH422",
+    "product_type": "Vay mua ô tô",
+    "stage": "Contacted",
+    "expected_value": 52299159.89,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0367",
+    "client_id": "KH423",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 296724396.54,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0368",
+    "client_id": "KH424",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 664884238.25,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0369",
+    "client_id": "KH425",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 754816740.39,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0370",
+    "client_id": "KH426",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1408477686.06,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0371",
+    "client_id": "KH426",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1440225418.6,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0372",
+    "client_id": "KH427",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 1271055670.02,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0373",
+    "client_id": "KH427",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 478661694.71,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0374",
+    "client_id": "KH428",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 1125687682.03,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0375",
+    "client_id": "KH429",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 941055074.35,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0376",
+    "client_id": "KH433",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 206049889.96,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0377",
+    "client_id": "KH433",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1613551051.38,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0378",
+    "client_id": "KH435",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 1026892018.45,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0379",
+    "client_id": "KH435",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1934016932.93,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0380",
+    "client_id": "KH436",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 882955776.34,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0381",
+    "client_id": "KH437",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 153152472.93,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0382",
+    "client_id": "KH439",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Contacted",
+    "expected_value": 1552122443.62,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0383",
+    "client_id": "KH440",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 675858229.2,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0384",
+    "client_id": "KH441",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1534666498.03,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0385",
+    "client_id": "KH442",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Lost",
+    "expected_value": 1809381316.02,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0386",
+    "client_id": "KH442",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1295354781.27,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0387",
+    "client_id": "KH443",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 613829968.63,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0388",
+    "client_id": "KH444",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1123564485.35,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0389",
+    "client_id": "KH445",
+    "product_type": "Vay mua nhà",
+    "stage": "Proposal",
+    "expected_value": 1888945869.5,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0390",
+    "client_id": "KH446",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 1208939031.38,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0391",
+    "client_id": "KH447",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 81650139.03,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0392",
+    "client_id": "KH447",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 668931074.19,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0393",
+    "client_id": "KH448",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1159598816.71,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0394",
+    "client_id": "KH451",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 590780745.29,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0395",
+    "client_id": "KH453",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 756525379.39,
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0396",
+    "client_id": "KH453",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 698116815.22,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0397",
+    "client_id": "KH458",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Contacted",
+    "expected_value": 431932047.93,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0398",
+    "client_id": "KH459",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1288422045.03,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0399",
+    "client_id": "KH460",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1504948302.69,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0400",
+    "client_id": "KH460",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 469939799.43,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0401",
+    "client_id": "KH461",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1500667902.3,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0402",
+    "client_id": "KH462",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1762814447.69,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0403",
+    "client_id": "KH463",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 898088724.04,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0404",
+    "client_id": "KH463",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1017687411.59,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0405",
+    "client_id": "KH464",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 320080072.59,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0406",
+    "client_id": "KH464",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1910513597.05,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0407",
+    "client_id": "KH465",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Proposal",
+    "expected_value": 1082607843.44,
+    "updated_at": "2026-06-12T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0408",
+    "client_id": "KH465",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 502835095.85,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0409",
+    "client_id": "KH466",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 654845377.9,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0410",
+    "client_id": "KH466",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1631098366.8,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0411",
+    "client_id": "KH467",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 838862157.54,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0412",
+    "client_id": "KH467",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1138823117.74,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0413",
+    "client_id": "KH468",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1663584229.43,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0414",
+    "client_id": "KH468",
+    "product_type": "Vay mua ô tô",
+    "stage": "Lost",
+    "expected_value": 897960075.17,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0415",
+    "client_id": "KH469",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Won",
+    "expected_value": 1759025145.33,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0416",
+    "client_id": "KH469",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1497730334.12,
+    "updated_at": "2026-06-26T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0417",
+    "client_id": "KH470",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 217788470.87,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0418",
+    "client_id": "KH470",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1781551035.02,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0419",
+    "client_id": "KH471",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1231933057.01,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0420",
+    "client_id": "KH472",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1437583665.21,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0421",
+    "client_id": "KH474",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1130931079.94,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0422",
+    "client_id": "KH474",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "New",
+    "expected_value": 1244753843.04,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0423",
+    "client_id": "KH475",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1496957093.67,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0424",
+    "client_id": "KH476",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1413289304.62,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0425",
+    "client_id": "KH476",
+    "product_type": "Vay mua nhà",
+    "stage": "Won",
+    "expected_value": 226795453.96,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0426",
+    "client_id": "KH477",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Contacted",
+    "expected_value": 877260657.16,
+    "updated_at": "2026-06-13T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0427",
+    "client_id": "KH478",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 1172473802.26,
+    "updated_at": "2026-06-11T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0428",
+    "client_id": "KH479",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 111238357.75,
+    "updated_at": "2026-06-15T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0429",
+    "client_id": "KH482",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1888455509.83,
+    "updated_at": "2026-06-28T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0430",
+    "client_id": "KH482",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "New",
+    "expected_value": 265778748.45,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0431",
+    "client_id": "KH484",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 464155831.04,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0432",
+    "client_id": "KH484",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 901359680.32,
+    "updated_at": "2026-06-17T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0433",
+    "client_id": "KH485",
+    "product_type": "Vay mua ô tô",
+    "stage": "Proposal",
+    "expected_value": 1605789204.17,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0434",
+    "client_id": "KH486",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Won",
+    "expected_value": 207119457.32,
+    "updated_at": "2026-06-14T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0435",
+    "client_id": "KH487",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 357493677.87,
+    "updated_at": "2026-06-16T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0436",
+    "client_id": "KH487",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Proposal",
+    "expected_value": 1275717457.22,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0437",
+    "client_id": "KH488",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 896064923.8,
+    "updated_at": "2026-06-20T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0438",
+    "client_id": "KH488",
+    "product_type": "Tiết kiệm tích lũy",
+    "stage": "Lost",
+    "expected_value": 1847494622.51,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0439",
+    "client_id": "KH491",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Won",
+    "expected_value": 535413373.49,
+    "updated_at": "2026-06-30T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0440",
+    "client_id": "KH492",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "New",
+    "expected_value": 1441696395.01,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0441",
+    "client_id": "KH492",
+    "product_type": "Vay mua ô tô",
+    "stage": "Won",
+    "expected_value": 1743653539.81,
+    "updated_at": "2026-06-27T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0442",
+    "client_id": "KH495",
+    "product_type": "Thẻ tín dụng VIP",
+    "stage": "Proposal",
+    "expected_value": 1029925919.88,
+    "updated_at": "2026-06-29T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0443",
+    "client_id": "KH495",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Proposal",
+    "expected_value": 1248491929.28,
+    "updated_at": "2026-06-23T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0444",
+    "client_id": "KH496",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Contacted",
+    "expected_value": 1401057851.91,
+    "updated_at": "2026-06-19T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0445",
+    "client_id": "KH496",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1861961913.47,
+    "updated_at": "2026-06-25T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0446",
+    "client_id": "KH497",
+    "product_type": "Bảo hiểm liên kết đầu tư",
+    "stage": "Lost",
+    "expected_value": 413059202.33,
+    "updated_at": "2026-06-24T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0447",
+    "client_id": "KH498",
+    "product_type": "Vay mua nhà",
+    "stage": "Lost",
+    "expected_value": 325684448.42,
+    "updated_at": "2026-06-21T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0448",
+    "client_id": "KH498",
+    "product_type": "Vay mua ô tô",
+    "stage": "New",
+    "expected_value": 1061541123.69,
+    "updated_at": "2026-06-10T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0449",
+    "client_id": "KH499",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "New",
+    "expected_value": 709099211.47,
+    "updated_at": "2026-06-18T10:00:00Z"
+  },
+  {
+    "opportunity_id": "OPP0450",
+    "client_id": "KH500",
+    "product_type": "Trái phiếu doanh nghiệp",
+    "stage": "Lost",
+    "expected_value": 1518401139.26,
+    "updated_at": "2026-06-28T10:00:00Z"
+  }
+]

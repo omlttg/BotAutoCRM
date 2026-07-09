@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "product_id": "PROD001",
+      "name": "Tiết kiệm Đại Phát",
+      "category": "Tiết kiệm",
+      "rate": "6.2% / năm kì hạn 12 tháng",
+      "description": "Lãi suất ưu việt dành cho kỳ hạn dài hạn, nhận lãi cuối kỳ."
+    },
+    {
+      "product_id": "PROD002",
+      "name": "Vay Mua Nhà An Gia",
+      "category": "Tín dụng",
+      "rate": "5.9% / năm cố định 2 năm đầu",
+      "description": "Hỗ trợ hạn mức vay lên tới 80% giá trị tài sản bảo đảm, thời gian vay tối đa 35 năm."
+    },
+    {
+      "product_id": "PROD003",
+      "name": "Vay Mua Ô Tô AutoLoan",
+      "category": "Tín dụng",
+      "rate": "6.5% / năm cố định 1 năm đầu",
+      "description": "Hạn mức vay lên tới 85% giá trị xe, giải ngân siêu tốc trong vòng 4 giờ làm việc."
+    },
+    {
+      "product_id": "PROD004",
+      "name": "Thẻ tín dụng VIP Platinum",
+      "category": "Thẻ",
+      "rate": "Hoàn tiền 10% chi tiêu ẩm thực, du lịch",
+      "description": "Miễn phí thường niên năm đầu, tích điểm dặm bay Vietnam Airlines, bảo hiểm du lịch toàn cầu."
+    },
+    {
+      "product_id": "PROD005",
+      "name": "Bảo hiểm Phú Bảo An Gia",
+      "category": "Bảo hiểm liên kết",
+      "rate": "Bảo vệ lên đến 150% số tiền bảo hiểm",
+      "description": "Sản phẩm bảo hiểm kết hợp đầu tư tài chính an toàn, bảo vệ toàn diện trước rủi ro."
+    }
+  ],
+  "email_templates": [
+    {
+      "template_id": "TEMP001",
+      "title": "Email giới thiệu gói vay mua nhà An Gia",
+      "subject": "Giải pháp tài chính vượt trội cho tổ ấm của bạn - Ngân hàng TMCP A",
+      "body": "Kính gửi anh/chị {client_name},\n\nTôi là {rm_name}, Relationship Manager tại Ngân hàng TMCP A.\n\nTôi xin gửi tới anh/chị thông tin về gói Vay Mua Nhà An Gia đang được áp dụng với mức lãi suất vô cùng ưu đãi chỉ {product_rate}. \n\nVới gói vay này, anh/chị sẽ được hỗ trợ vay lên đến 80% giá trị căn hộ và thời hạn vay linh hoạt đến 35 năm giúp giảm bớt áp lực tài chính hàng tháng.\n\nAnh/chị vui lòng liên hệ lại với tôi qua số điện thoại này hoặc phản hồi email để được hỗ trợ làm hồ sơ nhanh chóng.\n\nTrân trọng,\n{rm_name}\nNgân hàng TMCP A"
+    },
+    {
+      "template_id": "TEMP002",
+      "title": "Email tri ân khách hàng VIP tiết kiệm tích lũy",
+      "subject": "Chương trình tri ân đặc quyền dành riêng cho khách hàng VIP - Ngân hàng TMCP A",
+      "body": "Kính gửi anh/chị {client_name},\n\nLời đầu tiên, Ngân hàng TMCP A xin gửi lời cảm ơn chân thành tới anh/chị vì đã tin tưởng sử dụng dịch vụ của chúng tôi trong thời gian qua.\n\nLà một khách hàng phân khúc VIP, Ngân hàng xin gửi tới anh/chị chương trình Tiết kiệm tích lũy Đại Phát với mức lãi suất độc quyền lên tới {product_rate} dành riêng cho tài khoản của anh/chị.\n\nHy vọng gói giải pháp tài chính này sẽ giúp gia tăng tài sản tích lũy của anh/chị một cách an toàn và bền vững nhất.\n\nTrân trọng,\n{rm_name}\nNgân hàng TMCP A"
+    }
+  ]
+}
