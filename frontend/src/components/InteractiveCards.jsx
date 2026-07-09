@@ -95,6 +95,14 @@ export function OpportunityManager({ opportunities, onUpdateStatus }) {
     "Lost": "bg-rose-500/10 text-rose-400 border-rose-500/30",
   };
 
+  const stageLabels = {
+    "New": "Mới",
+    "Contacted": "Đã liên hệ",
+    "Proposal": "Đề xuất",
+    "Won": "Thành công",
+    "Lost": "Thất bại",
+  };
+
   return (
     <div className="glass-panel p-5 my-3 border border-slate-700 animate-fade-in-up" style={{ maxWidth: "550px" }}>
       <h3 className="text-sm font-bold text-slate-400 mb-3 m-0 uppercase tracking-wider">
@@ -108,7 +116,7 @@ export function OpportunityManager({ opportunities, onUpdateStatus }) {
               <span className="text-sm font-bold text-slate-200">{opp.product_type}</span>
             </div>
             <span className={`px-2 py-0.5 text-xs rounded border ${stageColors[opp.stage] || "bg-slate-500/10"}`}>
-              {opp.stage}
+              {stageLabels[opp.stage] || opp.stage}
             </span>
           </div>
           
@@ -130,7 +138,7 @@ export function OpportunityManager({ opportunities, onUpdateStatus }) {
                     : "bg-slate-900/50 hover:bg-slate-800 text-slate-400 border-slate-800"
                 }`}
               >
-                {targetStage}
+                {stageLabels[targetStage] || targetStage}
               </button>
             ))}
           </div>
@@ -139,6 +147,7 @@ export function OpportunityManager({ opportunities, onUpdateStatus }) {
     </div>
   );
 }
+
 
 // 4. Component soạn thảo email mẫu nháp, cho phép RM sửa và bấm gửi
 export function EmailDraftEditor({ template, clientName, rmName, onSendEmail }) {

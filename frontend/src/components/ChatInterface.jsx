@@ -31,7 +31,7 @@ const MessageActionButton = ({ text, onEdit }) => {
         className="text-[10px] text-slate-400 hover:text-sky-400 cursor-pointer font-bold flex items-center gap-1 border-0 bg-transparent"
         title="Sao chép nội dung tin nhắn"
       >
-        {copied ? "✅ Đã chép" : "📋 Copy"}
+        {copied ? "✅ Đã chép" : "📋 Sao chép"}
       </button>
       {onEdit && (
         <button 
@@ -647,7 +647,7 @@ export default function ChatInterface() {
           <div className="flex items-center gap-3">
             {/* Badge chỉ thị mô hình LLM đang xử lý thực tế */}
             <span className="bg-sky-500/10 text-sky-300 border border-sky-500/30 text-xs px-3 py-1 rounded-full font-bold">
-              ⚡ Model: {activeModel}
+              ⚡ Mô hình: {activeModel}
             </span>
             
             <button
@@ -747,7 +747,7 @@ export default function ChatInterface() {
               🛡️ Audit Log Bảo Mật (Real-time SQLite)
             </h2>
             <span className="bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 text-[9px] px-2 py-0.5 rounded font-bold uppercase">
-              PII Masked
+              ĐÃ ẨN PII
             </span>
           </header>
 
@@ -770,7 +770,7 @@ export default function ChatInterface() {
                   </div>
                   
                   <div>
-                    <span className="text-sky-500/80 block font-bold text-[9px]">AI RESPONSE MASKED:</span>
+                    <span className="text-sky-500/80 block font-bold text-[9px]">PHẢN HỒI AI ĐÃ ẨN PII:</span>
                     <p className="text-slate-300 m-0 bg-slate-900/40 p-1.5 rounded mt-0.5 whitespace-pre-wrap leading-relaxed border border-slate-900 max-h-[100px] overflow-y-auto">
                       {log.response}
                     </p>
